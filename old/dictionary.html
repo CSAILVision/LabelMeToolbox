@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>LabelMe visual index</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+<!--
+Dictionary viewer: written by A. Torralba (Sept 2009, MIT)
+
+LabelMe is a WEB-based image annotation tool and a Matlab toolbox that allows researchers to label images and share the annotations with the rest of the community.
+Copyright (C) 2007  MIT, Computer Science and Artificial
+Intelligence Laboratory. Bryan Russell, Antonio Torralba, William T. Freeman
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see
+    <http://www.gnu.org/licenses/>. 
+-->
+
+<script language="JavaScript" src="dictionary.js"></script>
+<script language="JavaScript" type="text/JavaScript">
+
+var mozilla=document.getElementById && !document.all;
+var ie=document.all;
+var homeThumbnails="http://people.csail.mit.edu/brussell/research/LabelMe/Thumbnails/";
+var labelmeurl = "http://labelme.csail.mit.edu/tool.html?collection=LabelMe&mode=f&folder=";
+
+function show_thumbnails(i,x,N){
+// Parameters: 
+//  i = object index
+//  x = instance index (sorted) is this needed?
+//  N = number of instances
+
+      var code;
+      var n;
+      var start; 
+
+      start = a[i];
+
+      code = '<p>'+d[i]+'</p>';
+      code = '';
+      for (n=1;n<=N;n++)
+        {
+        start = start + 1;
+        page = labelmeurl + p[start] + '&image=' + q[start] + '.jpg';
+        code = code + '<a href="' + page + '" target="_blank">';
+        code = code + '<img src="objectDictionary/obj_'+x+'/ins_'+n+'.jpg"/>';
+        code = code + '</a>';
+        }
+      document.getElementById('thumbviewer').innerHTML =code;
+}
+</script>
+
+
+</head>
+
+
+<!-- PAGE ----------------------------------------------------------------------------- -->
+<body>
+
+<!-- LIST OF OBJECTS  -->
+<div id="listofobjects" style="position:absolute; left:10px; top:10px; width:250px; height:800px; z-index:0;border-style:dashed; overflow:auto"> 
+    <script language="javascript" type="text/javascript"> 
+       var c=1;
+       var r=1;
+       var i=0;
+
+       document.write('<p> Number instances: '+ Ninstances + '<br> Number descriptions: ' + Nnames + '</p>');
+       document.write('<table border="0" width="220px" cellpadding="0" cellspacing="0" style="table-layout: fixed;">');
+
+       for (r=1;r<=nrows;r++)
+         {
+         document.write('<tr>');
+         for (c=1;c<=ncols;c++)
+           {
+           i++
+           document.write('<td width="170px"  onClick="show_thumbnails('+i+','+x[i]+','+n[i]+')">');
+           document.write('&nbsp;'+d[i]);
+           document.write('</td>');
+           document.write('<td>');
+           document.write(n[i]);
+           document.write('</td>');
+           }
+         document.write('</tr>');
+         }
+
+       document.write('</table>');
+    </script>
+</div>
+
+<!-- THUMBNAIL VIEWER -->
+<div id="thumbviewer" style="position:absolute; left:270px; top:10px; width:814px; height:800px; z-index:0; border-style:dashed; overflow:auto">
+&nbsp;Click on an object name to visualize the instances.
+</div>
+
+</body>
+</html>

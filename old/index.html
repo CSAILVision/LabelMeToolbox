@@ -1,0 +1,399 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>LabelMe Matlab Toolbox</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+</head>
+
+<body>
+
+<table width="800" border="0">
+  <tr>
+          
+    <td width="112" valign="top"><img src="labelmeStreet.jpg" width="110" height="110"></td>
+          
+    <td width="678" valign="top" bordercolor="#000000">
+<p><font size=5><b>MATLAB Toolbox for the LabelMe Image 
+              Database</b><br>
+              </font> <font size=3> Written and maintained by <em>Antonio Torralba 
+              and Bryan Russell</em></font><br>
+              (c) 2008 MIT, Computer Science and Artificial Intelligence Laboratory. 
+      </p>
+            
+      <p><font size=3><br>
+        <a href="http://people.csail.mit.edu/brussell/research/LabelMe/intro.html">LabelMe</a> 
+        is a WEB-based image annotation tool that allows researchers to label 
+        images and share the annotations with the rest of the community. If you 
+        use this toolbox, we only ask you to contribute to the database, from 
+        time to time, by using the labeling tool.</font></p>
+      <p><font size=5>Download </font> </p>
+      <p><a href="LabelMeToolbox.zip">Download (.zip)</a> the toolbox and add 
+        it to the Matlab path. </p>
+      <p><font size=5>Citation </font> </p>
+      <p>If you use this dataset or the functions on this toolbox, we would appreciate 
+        if you cite:</p>
+      <p>B. C. Russell, A. Torralba, K. P. Murphy, W. T. Freeman, <i><br>
+        LabelMe: a database and web-based tool for image annotation</i>. <br>
+        International Journal of Computer Vision, pages 157-173, Volume 77, Numbers 
+        1-3, May, 2008. <br>
+        (<a href="http://people.csail.mit.edu/brussell/research/AIM-2005-025-new.pdf">paper.pdf</a>)</p>
+      <p><font size=5>Contribution</font></p>
+      <p>If you find this dataset useful, you can help us to make it larger by 
+        visiting the annotation tool and labeling several objects. Even if your 
+        contribution seems small compared to the size of the dataset, everything 
+        counts! We also welcome submissions of copyright free images. Your annotations 
+        and images will be made available for download inmediately.</p>
+    </td>
+  </tr>
+</table>
+
+	<div>
+      <div id="Layer1" style="position:absolute; width:799px; height:56px; z-index:1"><img src="supermenu.jpg">
+  <div id="Layer2" style="position:absolute; left:135px; top:45px; width:118px; height:25px; z-index:2"><a href="http://labelme.csail.mit.edu/guidelines.html">Annotate 
+    images</a></div>
+  <div id="Layer3" style="position:absolute; left:310px; top:44px; width:103px; height:25px; z-index:2"><a href="http://people.csail.mit.edu/torralba/labelme/upload3D.html">Upload 
+    images</a></div>
+  <div id="Layer4" style="position:absolute; left:484px; top:41px; width:134px; height:27px; z-index:3"><a href="http://labelme.csail.mit.edu/instructions.html">Download 
+    database</a></div>
+  <div id="Layer5" style="position:absolute; left:681px; top:45px; width:123px; height:31px; z-index:4"><a href="http://labelme.csail.mit.edu/browseLabelMe/index.html">Browse 
+    database</a></div>
+  </div>
+  </div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="800" border="0" >
+  <tr> 
+    <td width="112">&nbsp;</td>
+    <td width="678"> 
+	  <p class="chapter"><font size="5">Toolbox description</font></p>
+      <p class="section">A quick look into the dataset</p>
+      <p>The toolbox allows you using the dataset online without needing to download 
+        it first. Just execute the next lines to visualize the content of one 
+        of the folders of the collection:</p>
+      <p class="matlab"> HOMEANNOTATIONS = 'http://labelme.csail.mit.edu/Annotations'; 
+        <br>
+        HOMEIMAGES = 'http://labelme.csail.mit.edu/Images';<br>
+        D = LMdatabase(HOMEANNOTATIONS, {'static_street_statacenter_cambridge_outdoor_2005'});<br>
+        LMdbshowscenes(D, HOMEIMAGES);</p>
+      <p>This example, reads the images online. Installing a local copy of the 
+        database will allow you having faster access to the images and annotations 
+        and it will reduce the load on our server. </p>
+      <p class="section">Downloading the LabelMe database</p>
+      <p>To download the images and annotations you can use the function LMinstall:</p>
+      <p class="matlab"> HOMEIMAGES = '/desired/path/to/Images';<br>
+        HOMEANNOTATIONS = '/desired/path/to/Annotations';<br>
+        LMinstall (HOMEIMAGES, HOMEANNOTATIONS); </p>
+      <p> Set the variables HOMEIMAGES and HOMEANNOTATIONS to point to your local 
+        paths. Downloading the entire LabelMe database can be quite slow. For 
+        additional download options, follow the <a href="http://labelme.csail.mit.edu/instructions.html">instructions 
+        here</a>. </p>
+      <p class="section">Reading the index </p>
+      <p>The annotation files use XML format. The function LMdatabase.m reads 
+        the XML files and generates a matlab struct array that will be used to 
+        perform queries and to extract segmentations from the images. To build 
+        the index for the entire dataset, execute:</p>
+      <p class="matlab"> D = LMdatabase(HOMEANNOTATIONS); </p>
+      <p>D is an array with as many entries as there are annotated images. For 
+        image <em>n</em>, some of the fields are:<br>
+        D(n).annotation.folder<br>
+        D(n).annotation.filename<br>
+        D(n).annotation.object(m).name<br>
+        D(n).annotation.object(m).polygon</p>
+      <p>Where <em>n</em> and <em>m</em> are the image and object indices respectively. 
+        Type <em>help LMdatabase</em> to see how to build the index for only some 
+        folders of the dataset.</p>
+      <p class="section">Visualization</p>
+      <p>Once you have created the LabelMe index D, you can visualize the annotations 
+        for an image with the function LMplot:</p>
+      <p class="matlab"> LMplot(D, 1, HOMEIMAGES);</p>
+      <p>You can also visualize a set of images or object crops:</p>
+      <p class="matlab"> LMdbshowscenes(D(1:30), HOMEIMAGES); % shows the first 
+        30 images<br>
+        LMdbshowobjects(D(1), HOMEIMAGES); % shows crops of all the objects in 
+        the first image </p>
+      <p class="section">Queries</p>
+      <p>To perfom searches for images, scenes, objects, etc, you can use the 
+        function LMquery. This function allows searching for the content of any 
+        field.</p>
+      <p class="matlab"> [Dcar, j] = LMquery(D, 'object.name', 'car'); </p>
+      <p>The new struct Dcar contains all the images with cars and all other objects 
+        have been removed. The index array j points to the original index D. The 
+        struct D(j) contains all the images with cars without excluding other 
+        objects. </p>
+      <p>The LMquery function does not assume a predefined list of fields. You 
+        can use this function to query with respect to any field. Therefore, if 
+        you add new fields inside the XML annotation files, you can still use 
+        LMquery to search with respect to the content of the new fields.</p>
+      <p>Exclusion can be used to narrow down a search. Compare this two:</p>
+      <p class="matlab">
+        LMdbshowobjects(LMquery(D, 'object.name', 'mouse+pad'), HOMEIMAGES);<br>
+        LMdbshowobjects(LMquery(D, 'object.name', 'mouse-pad'), HOMEIMAGES);
+      </p>
+	  <p>You can also combine searches. This next line select objects that belong 
+        to one of this groups: 1) side views of cars, 2) buildings 3) roads or 
+        4) trees:</p>
+      <p class="matlab">[Dcbrt, j] = LMquery(D, 'object.name', 'car+side,building,road,tree');</p>
+      <p>You can also do AND combinations by using several queries. For instace, 
+        to get a list of images that contain buildings, side views of cars and 
+        trees you can do:</p>
+      <p class="matlab">[D1,j1] = LMquery(D, 'object.name', 'building');<br>
+        [D2,j2] = LMquery(D, 'object.name', 'car+side');<br>
+        [D3,j3] = LMquery(D, 'object.name', 'tree');<br>
+        j = intersect(intersect(j1,j2),j3);</p>
+		
+      <p>The index array j points to all the images containing the three objects. 
+        Note that D(j) will also contain other objects, but it is guaranteed to 
+        contain the previous three.</p>
+      <p class="section">Extracting polygons and segments</p>
+      <p>The toolbox provides with a set of generic function to extract polygons 
+        and segments from the annotations. To extract the polygon coordinates 
+        for one object, you can use:</p>
+      <p class="matlab">
+	    [x,y] = LMobjectpolygon(Dcar(1).annotation, 1);<br>
+        figure<br>
+        plot(x{1}, y{1}, 'r')<br>
+        axis('ij') 
+	  </p>
+      <p>In this case, the function returns the first polygon of the first image 
+        in the index. The function LMobjectpolygon returns a cell array. One entry 
+        for each polygon requested.</p>
+      <p>To extract segmentation masks you can use the function LMobjectmask:</p>
+      <p class="matlab">[mask, class] = LMobjectmask(D(1).annotation, HOMEIMAGES);<br>
+        imshow(colorSegments(mask))</p>
+		
+      <p>You can use this function to extract segmentation masks for all the objects 
+        that belong to a single category or for individual polygons. Do <em>help 
+        LMobjectmask</em> to see more examples. </p>
+      <p>Here is a summary of the function available:<br>
+        - LMobjectpolygon - returns all the polygons for an object class within 
+        an image<br>
+        - LMobjectboundingbox - returns bounding boxes <br>
+        - LMobjectmask - returns the segmentation mask for all object instances 
+        of one class within an image<br>
+        - LMobjectcrop - crops one selected object<br>
+        - LMobjectnormalizedcrop - crops one image into a normalized frame (as 
+        we needed for training detectors)</p>
+      <p>The function LM2segments.m transforms all the annotations into segmentation 
+        masks and provides a unique index for each object class.</p>
+      <p class="section">Image manipulation</p>
+      <p>To crop and resize images and annotations:</p>
+      <p> LMimscale - scales an image and the corresponding annotation<br>
+        LMimcrop - crops an image and the corresponding annotation<br>
+        LMimpad - pads an image with PADVAL and modifies the annotation<br>
+        LMimresizecrop - outputs an image of size MxM.</p>
+      <p class="section">Collecting annotation statistics</p>
+      <p>The database contains many different object names. In order to see the 
+        list of object names and the number of times each object appears, you 
+        can use the function LMobjectnames. The next set of lines shows the distribution 
+        of object names:</p>
+      <p class="matlab">[names, counts] = LMobjectnames(D);<br>
+        [c,n] = sort(counts, 'descend');<br>
+        <br>
+        M = 10; % number of objects to show<br>
+        figure<br>
+        barh(counts(n(1:M)))<br>
+        set(gca, 'YTick', 1:M)<br>
+        set(gca, 'YtickLabel', names(n(1:M)))<br>
+        axis([0 max(counts(n(1:M)))+5 0 M+1])<br>
+        grid on<br>
+        xlabel('counts')</p>
+      <p class="section">Dealing with synonims and labeling noise</p>
+      <p>As there are not specific instructions about how labels should be introduced 
+        when using the online annotation tool, this results in different text 
+        descriptions used for the same object category. For instace, a person 
+        can be described as a &quot;person&quot;, &quot;pedestrian&quot;, &quot;person 
+        walking&quot;, &quot;kid&quot;, etc. Therefore, it is important that you 
+        unify the annotations. The way the annotations can be unified will depend 
+        on what you want to do. Therefore, here we provide a set of tools to replace 
+        object names. </p>
+      <p><strong><em>LMreplaceobjectname</em></strong></p>
+      <p>This function is useful when you want to replace a few object names. 
+        In order to replace an object name, you can use the function LMreplaceobjectname. 
+        For instance, the next line replaces all the object names that contain 
+        the string 'person' or 'pedestrian' by the string 'person'.</p>
+      <p class="matlab">D = LMreplaceobjectname(D, 'person,pedestrian', 'person', 'rename');</p>
+      <p>Type <em>help LMreplaceobjectname</em> to see other options.</p>
+      <p><strong><em>LMaddtags</em></strong></p>
+      <p>The function <font size=3><a href="LMaddtags.m">LMaddtags</a> replaces 
+        LabelMe object descriptions with the names in the list <a href="tags.txt">tags.txt</a>. 
+        You can extend this list to include more synonyms. Use this function to 
+        reduce the variability on object labels used to describe the same object 
+        class. However, the original labelme descriptions contain information 
+        that is more specific and you might want to generate other tag files to 
+        account for a specific level of description.</font> Details on the structure 
+        of the text file is given bellow. </p>
+      <p>To call the function:</p>
+      <p class="matlab">tagsfilename = 'tags.txt';<br>
+        [D, unmatched] = LMaddtags(D, tagsfilename);</p>
+      <p>After running this line, the struct D will contain a unified list of 
+        objects. The variable 'unmatched' gives the list of labelme descriptions 
+        that were not found inside tags.txt. The file tags.txt contains a list 
+        of tags and the labelme descriptions that will get map to each tag. You 
+        can add more terms to tags.txt. For instance, the next lines will unify 
+        a few of the descriptions into the tags 'person' and 'car'. (lmd means 
+        LabelMe Description).</p>
+      <p>TAG: person<br>
+        lmd: person walking<br>
+        lmd: person<br>
+        lmd: person standing<br>
+        lmd: person occluded<br>
+        TAG: car<br>
+        lmd: car<br>
+        lmd: car occluded<br>
+        lmd: suv</p>
+      <p><strong><em>LMaddwordnet</em></strong></p>
+      <p> Another way of unifiying the annotations is using <a href="http://wordnet.princeton.edu/">Wordnet</a>. 
+        You can see a demo in the script: <a href="http://labelme.csail.mit.edu/LabelMeToolbox/demoWordnet.m">demoWordnet.m.</a></p>
+      <p class="matlab">sensesfile = 'wordnetsenses.txt'; % this file contains the list of wordnet 
+        synsets.<br>
+        [D, unmatched, counts] = LMaddwordnet(D, sensesfile);</p>
+      <p>We can now use the power of wordnet to do more than unify the annotations. 
+        We can extend the annotations by including other terms. For instance, 
+        you can explore the <a href="http://people.csail.mit.edu/torralba/research/LabelMe/wordnet/test.html">Wordnet 
+        tree here</a>. The online search tool uses wordnet to extent the annotations. 
+        For instance, we can search for animals (<a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=animal">query 
+        = animal</a>) despide that users rarely provided this label.</p>
+      <p class="chapter"><font size="5">Annotate your own images</font></p>
+      <p>The function LMphotoalbum creates a web page with thumbnails connected 
+        with the annotation tool online. You can use this function to create a 
+        page showing images to annotate. This is useful if you want other people 
+        to help you, you can create one page for each person with a different 
+        partition of the set of images that you want to label.</p>
+      <p class="matlab">LMphotoalbum(folderlist, filelist, webpagename, HOMEIMAGES);</p>
+      <p>For instance, if you want to create a web page with images of kitchens, 
+        you can do:</p>
+      <p class="matlab">D = LMquery(D, 'folder', 'kitchen');<br>
+        LMphotoalbum(D, 'myphotoalbum.html');</p>
+      <p>If you want to annotate your own images, you need to upload them to LabelMe 
+        first. If you have a set of images you can send us an email with a link 
+        to a file with all your images. We will create a folder in LabelMe with 
+        your images. </p>
+      <p>The pictures that you upload, along with the annotations that you provide, 
+        will be made available for computer vision research as part of the LabelMe 
+        database.</p>
+      <p class="chapter"><font size="5">Scene recognition</font></p>
+      <p class="section">Gist descriptor</p>
+      <p>Here we provide a function to compute the gist descriptor as described 
+        in:</p>
+      <p>- Aude Oliva, Antonio Torralba. <em>Modeling the shape of the scene: 
+        a holistic representation of the spatial envelope</em>. International 
+        Journal of Computer Vision, Vol. 42(3): 145-175, 2001.</p>
+      <p>To compute the gist descriptor on an image you can use the function LMgist. 
+        Here is one example that reads one image and computes the descriptor.</p>
+      <p class="matlab">% Load image<br>
+        img = imread('demo1.jpg');<br>
+        <br>
+        % Parameters:<br>
+        param.imageSize = 128;<br>
+        param.orientationsPerScale = [8 8 8 8];<br>
+        param.numberBlocks = 4;<br>
+        param.fc_prefilt = 4;<br>
+        <br>
+        % Computing gist:<br>
+        [gist, param] = LMgist(img, '', param);<br>
+        <br>
+        % Visualization<br>
+        figure<br>
+        subplot(121)<br>
+        imshow(img)<br>
+        title('Input image')<br>
+        subplot(122)<br>
+        title('Descriptor')<br>
+        showGist(gist, param)</p>
+      <p>You can also compute the gist for a collection of images:</p>
+      <p class="matlab">gist = LMgist(D, HOMEIMAGES, param);</p>
+      <p>The output is an array of size [Nscenes Nfeatures], where Nscenes = length(D).</p>
+      <p class="section">Estimation of the horizon line using the Gist descriptor</p>
+      <p>The goal is to estimate the location of the horizon line on an image. 
+        This function uses the approach described in:</p>
+      <p>- A. Torralba, P. Sinha.<em> Statistical context priming for object detection</em>. 
+        ICCV 2001.<br>
+        - D. Hoiem, <em>Seeing the World Behind the Image: Spatial Layout for 
+        3D Scene Understanding</em>, CMU doctoral dissertation 2007.<br>
+        - J. Sivic, B. Kaneva, A. Torralba, S. Avidan and W. T. Freeman. <em>Creating 
+        and exploring a large photorealistic virtual space</em>. Workshop on Internet 
+        Vision, 2008.</p>
+      <p>To estimate the location of the horizon line call the function <a href="getHorizon.m">getHorizon.m</a>. 
+        This function returns the location of the horizon line. The units represent 
+        the distance to the center of the image (normalized units with respect 
+        to image height):</p>
+      <p class="matlab">h = getHorizon(img); % h is a value in the range [-0.5, 
+        0.5]<br>
+        <br>
+        [nrows ncols cc] = size(img);<br>
+        <br>
+        figure<br>
+        imshow(img)<br>
+        hold on<br>
+        plot([1 ncols], ([h h]+.5)*nrows, 'b', 'linewidth',3);</p>
+      <p>The estimator has already been trained using street scenes. The parameters 
+        of the estimator are in the file streets_general_camera_parameters.mat 
+      </p>
+      <p>If you want to retrain the estimator you can use the script: <a href="trainHorizon.m">trainHorizon.m</a>. 
+        The training data is stored in the file <em>streets_general_camera_training.mat</em>. 
+        Inside that file, the variable 'hor' contains all the training data and 
+      the list of LabelMe images used for training.      </p>
+      <p class="section">SIFT descriptor</p>
+      <p>Here we provide a function to compute dense SIFT features as described 
+        in:</p>
+      <p>- S. Lazebnik, C. Schmid, and J. Ponce. Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories, CVPR 2006.<br>
+        - C. Liu, J. Yuen, A. Torralba. Dense scene alignment using SIFT Flow for object recognition. CVPR 2009.      </p>
+      <p>The function LMdenseSift.m computes a SIFT descriptor at each pixel location (in this implementation there is no ROI detection as in the original definition by D. Lowe). This function is a modification of the code provided by S. Lazebnik. The current implementation uses convolutions. Here there is an example of how to compute the dense SIFT descriptors for an image and to visualize the descriptors as described in Liu et al 09.</p>
+      <p class="matlab">% demo SIFT using LabelMe toolbox<br>
+        <br>
+        img = imread('demo1.jpg');<br>
+      img = imresize(img, .5, 'bilinear');<br>
+      <br>
+      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%<br>
+        % SIFT parameters:<br>
+        SIFTparam.grid_spacing = 1; % distance between grid centers<br>
+        SIFTparam.patch_size = 16; % size of patch from which to compute SIFT descriptor (it has to be a factor of 4)<br>
+      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%<br>
+      <br>
+      % CONSTANTS (you can not change this)<br>
+      w = SIFTparam.patch_size/2; % boundary <br>
+      <br>
+      % COMPUTE SIFT: the output is a matrix [nrows x ncols x 128]<br>
+        SIFT = LMdenseSift(img, '', SIFTparam); <br>
+        <br>
+        figure<br>
+        subplot(121)<br>
+        imshow(img(w:end-w+1,w:end-w+1,:))<br>
+        title('cropped image')<br>
+        subplot(122)<br>
+        showColorSIFT(SIFT)<br>
+      title('SIFT color coded')</p>
+      <p>Other related functions: demoVisualWords.m, LMkmeansVisualWords.m, LMdenseVisualWords.m</p>
+      <p>&nbsp;</p>
+      <p><br>
+      </p></td>
+  </tr>
+</table>
+
+<p>Let us know if you encounter bugs or have suggestions.</p>
+(c) 2008 MIT, Computer Science and Artificial Intelligence Laboratory. 
+<!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" -->
+<p><script type="text/javascript" language="JavaScript">var site="s21labelme"</script>
+<script type="text/javascript" language="JavaScript1.2" src="http://s21.sitemeter.com/js/counter.js?site=s21labelme">
+</script>
+</p><noscript>
+<p><a href="http://s21.sitemeter.com/stats.asp?site=s21labelme" target="_top">
+<img src="http://s21.sitemeter.com/meter.asp?site=s21labelme" alt="Site Meter" border="0"/></a>
+</p></noscript>
+<p><!-- Copyright (c)2005 Site Meter -->
+<!--WEBBOT bot="HTMLMarkup" Endspan -->
+
+</body>
+</html>

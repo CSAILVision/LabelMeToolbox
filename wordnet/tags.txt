@@ -1,0 +1,4193 @@
+TAG: person
+lmd: person walking
+lmd: person
+lmd: person standing
+lmd: person occluded
+lmd: person az90deg
+lmd: personwalking
+lmd: person wise
+lmd: person az270deg
+lmd: person crop
+lmd: personwalking az90deg
+lmd: personstanding
+lmd: personsitting
+lmd: personwalking az270deg
+lmd: person wise occluded
+lmd: person az180deg
+lmd: person sitting
+lmd: person walking occluded
+lmd: prson standing
+lmd: peson standing
+lmd: person standing occluded
+lmd: persn standing occluded
+lmd: perso standing
+lmd: person az0deg
+lmd: person az240deg
+lmd: person walking woman
+lmd: personwalking az0deg
+lmd: person walking man
+lmd: person az120deg
+lmd: person az30deg
+lmd: person az60deg
+lmd: personwalking az180deg
+lmd: person az300deg
+lmd: personwalking az120deg
+lmd: person az150deg
+lmd: person lowres
+lmd: personwalking az300deg
+lmd: person skiing
+lmd: person soccer
+lmd: person woman walking
+lmd: person az330deg
+lmd: person upper body
+lmd: personwalking az150deg
+lmd: personwalking az30deg
+lmd: personwalking az330deg
+lmd: personsittingback
+lmd: person az210deg
+lmd: person part
+lmd: pesrson walking
+lmd: person standing woman
+lmd: personstanding az270deg
+lmd: personwalking az240deg
+lmd: personwalking az60deg
+lmd: person woman standing
+lmd: personwalking az210deg
+lmd: person walking crop
+lmd: walking person
+lmd: person dark
+lmd: person occluded az270deg
+lmd: person standing man
+lmd: person walking az90deg
+lmd: person man standing
+lmd: person standing crop
+lmd: person walkin
+lmd: person walking az270deg
+lmd: person_walking
+lmd: persons standing
+lmd: personstanding az90deg
+lmd: person man
+lmd: person occluded az30deg
+lmd: person walking az60deg
+lmd: person wise back occluded
+lmd: personstanding az0deg
+lmd: person sitting occluded
+lmd: person walking az0deg
+lmd: person woman
+lmd: person working occluded
+lmd: persons
+lmd: personstanding az180deg
+lmd: personstanding az60deg
+lmd: human person walking
+lmd: person back wise
+lmd: person man occluded
+lmd: person occluded az0deg
+lmd: person rear
+lmd: person swiming
+lmd: person swimming
+lmd: person walking az240deg
+lmd: person walking woman az0deg
+lmd: person wise back
+lmd: person wise crop
+lmd: person working
+lmd: persons walking
+lmd: personstanding occluded
+lmd: person  walking
+lmd: person actor
+lmd: person back az90deg
+lmd: person blurry
+lmd: person going up
+lmd: person head
+lmd: person kid
+lmd: person occluded az180deg
+lmd: person occluded az210deg
+lmd: person occluded az300deg
+lmd: person occluded az90deg
+lmd: person standig
+lmd: person standing kid
+lmd: person swimmer
+lmd: person waling
+lmd: person walking back
+lmd: person walking pedestrian az90deg
+lmd: personstanding az240deg
+lmd: personstanding az300deg
+lmd: personstanding lowres az270deg
+lmd: personstanding upper body
+lmd: personwalking occluded
+lmd: drawing person
+lmd: man, person, pedestrian
+lmd: person 0deg
+lmd: person back
+lmd: person going down
+lmd: person man walking
+lmd: person occluded az150deg
+lmd: person occluded az330deg
+lmd: person occluded sitting
+lmd: person pedestrian
+lmd: person reflection
+lmd: person riding
+lmd: person soccer az210deg
+lmd: person soccer az240deg
+lmd: person standig occluded
+lmd: person standing az0deg
+lmd: person walking az180deg
+lmd: person walking az330deg
+lmd: person walking man az0deg
+lmd: person walking man occluded
+lmd: person walking rear
+lmd: person walking woman az30deg
+lmd: person walking woman az90deg
+lmd: person wearing armor
+lmd: person with bag az90deg
+lmd: person woman az270deg
+lmd: person woman sitting
+lmd: person woman wise
+lmd: person, standing
+lmd: persons occluded
+lmd: personsittingbackpart
+lmd: personstanding az120deg
+lmd: personstanding lowres
+lmd: woman person walking
+lmd: anwar sadat person
+lmd: back girl person crop
+lmd: backguy person walking az90deg
+lmd: biker person bike
+lmd: fat person
+lmd: fat person az330deg
+lmd: guy person
+lmd: guy upper body person
+lmd: head person
+lmd: head, person
+lmd: line persons
+lmd: man person standing
+lmd: man, pedestrian, person, human, walker az30deg
+lmd: man, person, human, onlooker, tourist, pedestrian occluded
+lmd: man, person, human, pedestrian az120deg
+lmd: man, person, human, pedestrian, walker
+lmd: man, person, human, photographer, tourist occluded
+lmd: man, person, pedestrian, human az270deg
+lmd: occluded person
+lmd: pedestrian, person
+lmd: people person
+lmd: person  standing
+lmd: person (back-right) occluded
+lmd: person (front) tennis az300deg
+lmd: person (occluded)
+lmd: person - facing front az90deg
+lmd: person 1 az150deg
+lmd: person 180deg
+lmd: person 2 az270deg
+lmd: person arm
+lmd: person az180deg az120deg
+lmd: person az180deg az150deg
+lmd: person az90
+lmd: person az90 az90deg
+lmd: person back az60deg
+lmd: person back upper body
+lmd: person bicycle
+lmd: person biking
+lmd: person boy
+lmd: person boy standing
+lmd: person coming
+lmd: person cyclist
+lmd: person dark az120deg
+lmd: person dark az180deg
+lmd: person dark az270deg
+lmd: person from behind az90deg
+lmd: person front occluded
+lmd: person frontal az270deg
+lmd: person in costume
+lmd: person in far view
+lmd: person in line
+lmd: person in soccer uniform az180deg
+lmd: person in soccer uniform az30deg
+lmd: person in soccer uniform az330deg
+lmd: person in soccer uniform az60deg
+lmd: person leaning against wall az180deg
+lmd: person lying down
+lmd: person man az300deg
+lmd: person man az30deg
+lmd: person man back crop
+lmd: person man dark az60deg
+lmd: person man sitting
+lmd: person man standing az270deg
+lmd: person man walking occluded
+lmd: person occlouded
+lmd: person occluded az120deg
+lmd: person occluded az240deg
+lmd: person occluded man
+lmd: person occluded woman
+lmd: person occlued
+lmd: person occlused
+lmd: person on bicycle
+lmd: person on bike
+lmd: person on pavement
+lmd: person part before a computer
+lmd: person playing
+lmd: person playing guitar
+lmd: person rear occluded
+lmd: person reflexion occluded
+lmd: person riding bicycle
+lmd: person riding occluded
+lmd: person rowing
+lmd: person running
+lmd: person scientist
+lmd: person setanding
+lmd: person side
+lmd: person sitting cropped
+lmd: person sitting man
+lmd: person sitting occluded part
+lmd: person sitting part
+lmd: person sitting sideview
+lmd: person sitting woman
+lmd: person skiing crop
+lmd: person skiing occluded
+lmd: person soccer az270deg
+lmd: person squatling
+lmd: person stading
+lmd: person standin
+lmd: person standing az120deg
+lmd: person standing az210deg
+lmd: person standing az270deg
+lmd: person standing az300deg
+lmd: person standing az30deg
+lmd: person standing az90deg
+lmd: person standing back
+lmd: person standing man az210deg
+lmd: person standing woman az300deg
+lmd: person stanting
+lmd: person sweping
+lmd: person tennis
+lmd: person torso
+lmd: person upper body sitting
+lmd: person vaulted
+lmd: person vaulted occluded
+lmd: person waking
+lmd: person walking away az120deg
+lmd: person walking away occluded
+lmd: person walking az120deg
+lmd: person walking az150deg
+lmd: person walking az300deg
+lmd: person walking az30deg
+lmd: person walking kid
+lmd: person walking left az30deg
+lmd: person walking lowres az0deg
+lmd: person walking man az180deg
+lmd: person walking man az210deg
+lmd: person walking man az330deg
+lmd: person walking man az90deg
+lmd: person walking occluded az270deg
+lmd: person walking ocluded
+lmd: person walking pedestrian az270deg
+lmd: person walking rear az60deg
+lmd: person walking right
+lmd: person walking right az180deg
+lmd: person walking woman az180deg
+lmd: person walking woman az210deg
+lmd: person walking woman az240deg
+lmd: person walking woman az60deg
+lmd: person wallking
+lmd: person wise backoccluded
+lmd: person wise in profile
+lmd: person with bag az330deg
+lmd: person with book
+lmd: person woman az0deg
+lmd: person woman az180deg
+lmd: person woman az240deg
+lmd: person woman crop
+lmd: person woman occluded
+lmd: person woman walking az60deg
+lmd: person, female, pedestrian, people, walk
+lmd: person, human
+lmd: person, human, man, pedestrian
+lmd: person, human, man, pedestrian, walker
+lmd: person, human, man, pedestrian, walker az150deg
+lmd: person, lady, woman, human, walker, pedestrian az150deg
+lmd: person, male az270deg
+lmd: person, man, human, walker, pedestrian
+lmd: person, man, old
+lmd: person, pedestrian, man, walker, human az150deg
+lmd: person, walking az270deg
+lmd: person1 az270deg
+lmd: person2
+lmd: person3
+lmd: person4
+lmd: person5
+lmd: person_standing
+lmd: personback az60deg
+lmd: personback az90deg
+lmd: personback occluded
+lmd: personchild az60deg
+lmd: personfront az270deg
+lmd: persononbike az90deg
+lmd: personpart
+lmd: persons az0deg
+lmd: persons rowing
+lmd: personsittinginwindow
+lmd: personstanding az150deg
+lmd: personstanding az210deg
+lmd: personstanding az30deg
+lmd: personstanding az330deg
+lmd: personstanding crop
+lmd: personstanding occluded az180deg
+lmd: personstanding occluded az210deg
+lmd: personstanding occluded az60deg
+lmd: personstroller az90deg
+lmd: personwalk az210deg
+lmd: personwalking occluded az270deg
+lmd: personwalking part
+lmd: personwalkingaway az120deg
+lmd: personwalkingaway az90deg
+lmd: pperson driving occluded
+lmd: priest person az210deg
+lmd: reflected person
+lmd: running person kid az240deg
+lmd: shadow of person
+lmd: sitting person
+lmd: sports person
+lmd: standing person
+lmd: standingperson
+lmd: tennis player person walking az330deg
+lmd: photographer
+lmd: upperboddy, boddy, person
+lmd: delegate
+lmd: man with backpack
+lmd: walking person az90deg
+lmd: walking person man
+lmd: walkkng person
+lmd: woman, lady, person, human
+lmd: man
+lmd: woman
+lmd: human
+lmd: man walking
+lmd: woman occluded
+lmd: human walking
+lmd: woman walking
+lmd: human soccer
+lmd: man crop
+lmd: pedestrian, woman
+lmd: walking woman
+lmd: human standing
+lmd: pedestrian, man
+lmd: walking man
+lmd: woman crop
+lmd: woman sitting
+lmd: woman upper body
+lmd: woman, pedestrian, human
+lmd: a woman
+lmd: elderly woman
+lmd: human female front
+lmd: human figure
+lmd: human sitting
+lmd: humans
+lmd: man occluded
+lmd: man on bike
+lmd: man, pedestrian
+lmd: manhole covered
+lmd: manhole crop
+lmd: pedestrian man
+lmd: woman, back view
+lmd: woman, pedestrian
+lmd: a walking man
+lmd: aude woman
+lmd: bald man wearing blue jeans and leather jacket with a backpack
+lmd: balding man occluded
+lmd: biker man
+lmd: boatsman
+lmd: brown haired woman occluded
+lmd: camera man shadow
+lmd: cameraman
+lmd: chica woman
+lmd: chico man
+lmd: couple man woman
+lmd: face, woman
+lmd: fisherman
+lmd: horseman
+lmd: human back
+lmd: human ear
+lmd: human eye brow
+lmd: human lowres
+lmd: human male
+lmd: human mouth
+lmd: human part
+lmd: human running
+lmd: human shadow
+lmd: humanback
+lmd: man (back)
+lmd: man (right side)
+lmd: man about to cross
+lmd: man behind
+lmd: man frontal
+lmd: man in wheelchair
+lmd: man left
+lmd: man on bicycle
+lmd: man pedestrian
+lmd: man upper body
+lmd: man walking away
+lmd: man walking towards camera
+lmd: man with bag
+lmd: man, back view
+lmd: man, people
+lmd: man-sitting
+lmd: man1
+lmd: man_s shadow
+lmd: old man seated
+lmd: old man_s back
+lmd: old woman
+lmd: pedestrian (stationary man) az180deg
+lmd: pedestrian, human
+lmd: police man
+lmd: policewoman
+lmd: portly man
+lmd: postman
+lmd: pretty woman
+lmd: sitting man
+lmd: superman
+lmd: surly man in a red jacket
+lmd: tennisman
+lmd: what the freeman
+lmd: whitehaired man occluded
+lmd: woman (behind)
+lmd: woman back
+lmd: woman bending
+lmd: woman curly hair
+lmd: woman entering shop
+lmd: woman on escalator
+lmd: woman pedestrian
+lmd: woman profile crop
+lmd: woman sitting on horse
+lmd: woman speaker occluded
+lmd: woman standing
+lmd: woman standing from behind
+lmd: woman taking photograph
+lmd: woman walking away
+lmd: woman walking rear
+lmd: woman-back
+lmd: woman_s behind
+lmd: womanwithkid
+lmd: child
+lmd: child walking
+lmd: child occluded
+lmd: child standing
+lmd: child estanding
+lmd: child in fairy costume
+lmd: child plalying
+lmd: child squatting
+lmd: child walking occluded
+lmd: child wise
+lmd: children
+lmd: girl
+lmd: girl walking
+lmd: a girl
+lmd: boy and girl
+lmd: girls
+lmd: pedestrian
+lmd: pedestrian az90deg
+lmd: pedestrian, woman
+lmd: pedestrians
+lmd: pedestrian crossing
+lmd: pedestrian occluded
+lmd: pedestrian, man
+lmd: woman, pedestrian, human
+lmd: man, pedestrian
+lmd: pedestrian 1
+lmd: pedestrian 2
+lmd: pedestrian az120deg
+lmd: pedestrian az60deg
+lmd: pedestrian man
+lmd: pedestrian walking az0deg
+lmd: pedestrian, people, walking
+lmd: woman, pedestrian
+lmd: man pedestrian
+lmd: pedestrian 2 crop
+lmd: pedestrian 3
+lmd: pedestrian 3 crop
+lmd: pedestrian az0deg
+lmd: pedestrian az150deg
+lmd: pedestrian az240deg
+lmd: pedestrian female tight jeans
+lmd: pedestrian running
+lmd: pedestrian walking
+lmd: pedestrian walking az120deg
+lmd: pedestrian walking az180deg
+lmd: pedestrian walking az210deg
+lmd: pedestrian walking az330deg
+lmd: pedestrian walking az90deg
+lmd: pedestrian, human
+lmd: pedestriancrossing
+lmd: pedestrians (grouping)
+lmd: pedestrians couple
+lmd: pedestrians, pedestrian
+lmd: people, walking, pedestrian
+lmd: woman pedestrian
+lmd: people
+lmd: people occluded
+lmd: people wise
+lmd: people walking
+lmd: crowd people
+lmd: cycling people
+lmd: people art decor
+lmd: people az180deg
+lmd: people body
+lmd: people crop
+lmd: people mover
+lmd: people near railing
+lmd: people riding
+lmd: people side sitting
+lmd: people sitting
+lmd: people wanking
+lmd: people_
+lmd: peoples
+lmd: sitting people
+lmd: two people
+lmd: walking people
+TAG: car
+lmd: car
+lmd: car occluded
+lmd: car side occluded
+lmd: car crop
+lmd: car side
+lmd: car rear
+lmd: cars side
+lmd: carside az0deg
+lmd: car side crop
+lmd: car rear az90deg
+lmd: carfrontal az270deg
+lmd: carfrontal az90deg
+lmd: car az90deg
+lmd: cars
+lmd: car frontal
+lmd: carside az180deg
+lmd: car side az0deg
+lmd: car region
+lmd: car az60deg
+lmd: car front
+lmd: car az300deg
+lmd: car az30deg
+lmd: car az120deg
+lmd: car az330deg
+lmd: car rear occluded
+lmd: car az240deg
+lmd: car az270deg
+lmd: car back
+lmd: car az150deg
+lmd: car side az180deg
+lmd: car az210deg
+lmd: cars occluded
+lmd: carside az330deg
+lmd: car az0deg
+lmd: car front az270deg
+lmd: cars side occluded
+lmd: car frontal az270deg
+lmd: car part
+lmd: car back az90deg
+lmd: carfrontal az60deg
+lmd: carfrontal az300deg
+lmd: carside az30deg
+lmd: carfrontal az240deg
+lmd: carfrontal az120deg
+lmd: car az180deg
+lmd: car front az240deg
+lmd: carpart
+lmd: car rear az120deg
+lmd: car side az330deg
+lmd: carside az210deg
+lmd: car back az60deg
+lmd: car side az210deg
+lmd: carside az150deg
+lmd: car frontal occluded
+lmd: car rear az60deg
+lmd: car right
+lmd: carsidepart
+lmd: car side az150deg
+lmd: car side az30deg
+lmd: car crops
+lmd: car left
+lmd: car left az0deg
+lmd: car front az300deg
+lmd: car back az120deg
+lmd: car back left
+lmd: car front occluded
+lmd: carregion
+lmd: car frontal az300deg
+lmd: car occluded crop
+lmd: carfrontalpart
+lmd: carside
+lmd: car front left az330deg
+lmd: car left az60deg
+lmd: car right az150deg
+lmd: car right az180deg
+lmd: car side part
+lmd: car suv
+lmd: car van
+lmd: carback az90deg
+lmd: car crop occluded
+lmd: car front right az210deg
+lmd: car front right az240deg
+lmd: car left az30deg
+lmd: car taxi
+lmd: taxi
+lmd: taxi cab
+lmd: yellow taxi
+lmd: occluded car
+lmd: car front left
+lmd: car front right
+lmd: car front-right az240deg
+lmd: car left side
+lmd: car rear crop
+lmd: car side occlude
+lmd: car side rear
+lmd: car side suv az0deg
+lmd: car truck occluded
+lmd: car van occluded
+lmd: car-rear az90deg
+lmd: carfront az270deg
+lmd: carfrontal
+lmd: caroccluded
+lmd: cars parked
+lmd: back car
+lmd: black car
+lmd: car (side)
+lmd: car 1
+lmd: car back left az30deg
+lmd: car back left az60deg
+lmd: car front right az300deg
+lmd: car frontal az240deg
+lmd: car right az210deg
+lmd: car side suv
+lmd: car side suv az180deg
+lmd: car side taxi
+lmd: car side, sedan az0deg
+lmd: carback
+lmd: carback az120deg
+lmd: red car
+lmd: car (back)
+lmd: car 2
+lmd: car back right
+lmd: car back right az30deg
+lmd: car back-left
+lmd: truck car
+lmd: car crop az150deg
+lmd: car from behind
+lmd: car front left az300deg
+lmd: car front right az330deg
+lmd: car front-right
+lmd: car left az330deg
+lmd: car left occluded
+lmd: car left side az0deg
+lmd: car ocluded
+lmd: car rear side
+lmd: car rear side crop
+lmd: car right side az150deg
+lmd: car side left
+lmd: car suv side
+lmd: car, side view az180deg
+lmd: car1
+lmd: car_front
+lmd: car_side
+lmd: carbackview az90deg
+lmd: carfront
+lmd: carfront az240deg
+lmd: carfrontal az210deg
+lmd: carrear az120deg
+lmd: cars side crop
+lmd: cars sides
+lmd: carside az120deg
+lmd: carside crop
+lmd: carside part
+lmd: carsregion
+lmd: gray car
+lmd: parked cars
+lmd: suv car
+lmd: suv
+lmd: taxi car
+lmd: 4x4 car az240deg
+lmd: 4x4 car side az0deg
+lmd: a car
+lmd: auto car
+lmd: automobile car
+lmd: automobile car rear
+lmd: automobile car side
+lmd: automobile car suv az0deg
+lmd: back of the car
+lmd: back of the car az90deg
+lmd: backcar
+lmd: black car side crop
+lmd: blue audi car
+lmd: blue car
+lmd: blue car az270deg
+lmd: blue car left side
+lmd: car   crop
+lmd: car  crop
+lmd: car  driver
+lmd: car  side
+lmd: car (back) az90deg
+lmd: car (citroen) az0deg
+lmd: car (fiat uno rear view) az90deg
+lmd: car (ford focus) az330deg
+lmd: car (front-right) az240deg
+lmd: car (grey hatchback)
+lmd: car (hatchback) az330deg
+lmd: car (left side) az0deg
+lmd: car (rear view) az90deg
+lmd: car (red renault) az270deg
+lmd: car (side) az0deg
+lmd: car (side) crop
+lmd: car (side-rear)
+lmd: car (vw golf) az90deg
+lmd: car (white hatchback) az270deg
+lmd: car - jeep az0deg
+lmd: car 1 az0deg
+lmd: car 2 az30deg
+lmd: car 3
+lmd: car 4
+lmd: car 4x4 side az0deg
+lmd: car back az210deg
+lmd: car back right az150deg
+lmd: car back right az60deg
+lmd: car back side
+lmd: car back side occluded
+lmd: car back-left az60deg
+lmd: car back-right az150deg
+lmd: car backside
+lmd: car body
+lmd: car convertible bmw
+lmd: car cop
+lmd: car crio
+lmd: car crop az210deg
+lmd: car crop front
+lmd: car crop left
+lmd: car crop rear
+lmd: car crop side
+lmd: car cropped
+lmd: car driving by az330deg
+lmd: car ford az240deg
+lmd: car front crop
+lmd: car front side
+lmd: car front-left az300deg
+lmd: car frontal occluded az300deg
+lmd: car frontal partially ocluded az270deg
+lmd: car frontal van az270deg
+lmd: car frontview az270deg
+lmd: car in parking lot az30deg
+lmd: car minivan az300deg
+lmd: car nside occluded
+lmd: car occlded
+lmd: car occluded az120deg
+lmd: car occluded az270deg
+lmd: car occluded rear
+lmd: car occluded van
+lmd: car occlued
+lmd: car occuded
+lmd: car oldtimer
+lmd: car on street az330deg
+lmd: car parked side az150deg
+lmd: car partial
+lmd: car partially occluded az60deg
+lmd: car rear lamp
+lmd: car rear side  crop
+lmd: car rear view az120deg
+lmd: car rear_ az90deg
+lmd: car right side
+lmd: car right side az180deg
+lmd: car side  crop
+lmd: car side  occluded
+lmd: car side (suv) az150deg
+lmd: car side az240deg
+lmd: car side az300deg
+lmd: car side blur
+lmd: car side croip
+lmd: car side crop az0deg
+lmd: car side crop az30deg
+lmd: car side jeep az180deg
+lmd: car side left az0deg
+lmd: car side moving az0deg
+lmd: car side occluded az0deg
+lmd: car side occluded az180deg
+lmd: car side oclude
+lmd: car side police
+lmd: car side rear crop
+lmd: car side right
+lmd: car side suv az150deg
+lmd: car side suv az210deg
+lmd: car sided crop
+lmd: car sides
+lmd: car suv az120deg
+lmd: car suv frontal az240deg
+lmd: car suv occluded
+lmd: car suv part
+lmd: car suv side az180deg
+lmd: car taxi crop
+lmd: car truck
+lmd: car truck pickup
+lmd: car van az300deg
+lmd: car van az30deg
+lmd: car van rear
+lmd: car van side az0deg
+lmd: car's front view az270deg
+lmd: car, automobile
+lmd: car, automobile, van, vehicle occluded
+lmd: car, cab, taxi
+lmd: car, ford escort
+lmd: car, front view az270deg
+lmd: car, frontal az270deg
+lmd: car, hyundai tiburon
+lmd: car, mini cooper
+lmd: car, renult megane
+lmd: car, sideview az180deg
+lmd: car, suv
+lmd: car, truck
+lmd: car, van
+lmd: car, van, vehicle, automobile
+lmd: car, vehicle, automobile crop
+lmd: car, vehicle, automobile, auto
+lmd: car, vehicle, automobile, auto crop
+lmd: car, vehicle, automobile, auto, coupe
+lmd: car, vehicle, automobile, cops, police, law enforcement, authorities, fuzz, five-oh
+lmd: car, vehicle, automobile, hatchback, sedan
+lmd: car, vehicle, automobile, sedan occluded
+lmd: car, vehicle, automobile, sedan, audi
+lmd: car01
+lmd: car02
+lmd: car2
+lmd: car5
+lmd: car_suv
+lmd: caravan
+lmd: caravan occluded
+lmd: carback az150deg
+lmd: carback occluded
+lmd: carbackside az150deg
+lmd: carfront az300deg
+lmd: carfrontal az30deg
+lmd: carfrontal az330deg
+lmd: caro ccluded az300deg
+lmd: carpart az120deg
+lmd: carpart az150deg
+lmd: cars (parking)
+lmd: cars - parking lot
+lmd: cars parked nine
+lmd: cars parked occluded
+lmd: carside az300deg
+lmd: carside ocluded
+lmd: carsideview crop
+lmd: dark blue car
+lmd: front of car
+lmd: frontal car
+lmd: hatchback car az180deg
+lmd: mercedes car side az0deg
+lmd: minivan car
+lmd: minivan car crop
+lmd: mpv car side az0deg
+lmd: occluded car az270deg
+lmd: occluded_car
+lmd: opel astra car side
+lmd: opel corsa car side
+lmd: parking car
+lmd: partial car az120deg
+lmd: partially occluded car az90deg
+lmd: partially occluded car side az210deg
+lmd: peugeot car
+lmd: peugeot car az270deg
+lmd: police car
+lmd: police car occluded
+lmd: rear car
+lmd: red car az270deg
+lmd: red car side
+lmd: red-car az0deg
+lmd: smart car az0deg
+lmd: streetcar
+lmd: peugeot
+lmd: suv car side
+lmd: suv, car
+lmd: taxi car side
+lmd: toyota corolla car side
+lmd: truck (back) car az90deg
+lmd: truck car occluded
+lmd: truck crop car
+lmd: two door hatchback car az150deg
+lmd: van car occluded
+lmd: van car rear az90deg
+lmd: vehicle (rear view) car
+lmd: vehicle, car
+lmd: vw golf car
+lmd: wagen car
+lmd: white car
+lmd: white car occluded
+lmd: yellow car
+TAG: tree
+lmd: tree
+lmd: trees
+lmd: palm tree
+lmd: tree crop
+lmd: tree occluded
+lmd: tree region green
+lmd: treeregion
+lmd: palm tree trunk
+lmd: tree region no leaves
+lmd: tree branch
+lmd: tree leaves
+lmd: tree trunk fallen
+lmd: palm trees
+lmd: tree region
+lmd: trees occluded
+lmd: treepart
+lmd: palm tree occluded
+lmd: tree trunks
+lmd: treewhole
+lmd: palm tree crop
+lmd: tree branches
+lmd: trees folage
+lmd: tree cropped
+lmd: tree trunk crop
+lmd: tree green
+lmd: tree top
+lmd: palms trees
+lmd: plam tree
+lmd: tree folage
+lmd: tree no leaves
+lmd: tree trunck
+lmd: tree trunk occluded
+lmd: tree, plant
+lmd: leaves tree
+lmd: palms tree
+lmd: stump of tree
+lmd: tree cut down
+lmd: tree folage palm
+lmd: tree line
+lmd: tree region foliage
+lmd: tree trunk cropped
+lmd: tree, evergreen
+lmd: palm tree cropped
+lmd: palm-tree
+lmd: palmtree
+lmd: tree region green leaves
+lmd: treee
+lmd: trees crop
+lmd: trees cropped
+lmd: trees top
+lmd: treetrunk
+lmd: backtree
+lmd: christmas tree
+lmd: chrsitmas tree
+lmd: dead tree
+lmd: evergreen tree
+lmd: fieltrees
+lmd: foliage tree
+lmd: happy tree
+lmd: live tree
+lmd: ornamental tree
+lmd: palm  tree
+lmd: palm tree occlude
+lmd: palm, tree
+lmd: palms trees trunk
+lmd: pine tree
+lmd: plams tree
+lmd: plams trees
+lmd: plants trees
+lmd: poplar tree
+lmd: riparian trees
+lmd: shrub trees
+lmd: small palm tree
+lmd: small tree
+lmd: snowy tree
+lmd: snowy trees
+lmd: tree (without leaves)
+lmd: tree *x
+lmd: tree bark
+lmd: tree branch in front of window
+lmd: tree canopy
+lmd: tree crowns
+lmd: tree dead
+lmd: tree dry
+lmd: tree foliage
+lmd: tree folliage
+lmd: tree ground
+lmd: tree lined path
+lmd: tree part
+lmd: tree region fall foliage
+lmd: tree root
+lmd: tree small
+lmd: tree tree branches
+lmd: tree tree trunk
+lmd: tree trunk
+lmd: tree understructure
+lmd: tree with leaves
+lmd: tree, deciduous
+lmd: tree, palmtree
+lmd: tree, platane
+lmd: treebushes
+lmd: treee crop
+lmd: treepart trunk
+lmd: trees at a distance
+lmd: trees crop blur
+lmd: trees folage palm
+lmd: trees mountain
+lmd: trees no leaves
+lmd: trees occludeds
+lmd: trees on hill
+lmd: trees on slope
+lmd: trees palm trees
+lmd: trees region green
+lmd: trees with no leaves
+lmd: treestump
+lmd: trunk tree fall
+TAG: window
+lmd: aeeay of windows
+lmd: arched window
+lmd: array of windows
+lmd: back side window
+lmd: basement window
+lmd: bay shop window
+lmd: bay window
+lmd: boat window
+lmd: bubble window
+lmd: building window
+lmd: building window frame
+lmd: building window square
+lmd: bus window
+lmd: car window
+lmd: carwindow
+lmd: closed window
+lmd: door window
+lmd: double window occluded
+lmd: wenster/windows
+lmd: frontalwindow
+lmd: glass window
+lmd: glass windows
+lmd: house window
+lmd: lage window
+lmd: large window
+lmd: large window crop
+lmd: large window occluded
+lmd: opacity windows
+lmd: open window
+lmd: pass window
+lmd: rose window
+lmd: round building window
+lmd: round window
+lmd: series of windows
+lmd: shoe store window
+lmd: shop window
+lmd: shop window crop
+lmd: shop window occluded
+lmd: side window
+lmd: stained glass window
+lmd: stained-glass window
+lmd: store window
+lmd: storewindow
+lmd: tall window
+lmd: three windows
+lmd: window
+lmd: window  crop
+lmd: window bank
+lmd: window blind
+lmd: window box
+lmd: window cro
+lmd: window crop
+lmd: window frame
+lmd: window latch
+lmd: window occluded
+lmd: window of building
+lmd: window open
+lmd: window pane
+lmd: window panel
+lmd: window rose
+lmd: window rose crop
+lmd: window screen
+lmd: window set1
+lmd: window set2
+lmd: window shade
+lmd: window shop
+lmd: window truncated
+lmd: window with reflections
+lmd: window with security cover
+lmd: window, bars
+lmd: window, glass
+lmd: window, glazing, divided lite
+lmd: window, gray
+lmd: window, windshield, glass
+lmd: window1
+lmd: window2
+lmd: window3
+lmd: window4
+lmd: window5
+lmd: window6
+lmd: windown
+lmd: windowpartial
+lmd: windows
+lmd: windows 1
+lmd: windows 2
+lmd: windows in distance
+lmd: windows2
+TAG: head
+lmd: another head
+lmd: antelope head
+lmd: baby hyena_s head
+lmd: back of head
+lmd: back of the head
+lmd: bird head
+lmd: cat head
+lmd: cub head
+lmd: dog head
+lmd: dog head, black
+lmd: dread Head
+lmd: elephant head
+lmd: face head
+lmd: face head side
+lmd: face side head
+lmd: female head
+lmd: giraffe head
+lmd: head
+lmd: head (back)
+lmd: head az0deg
+lmd: head az120deg
+lmd: head az150deg
+lmd: head az180deg
+lmd: head az210deg
+lmd: head az240deg
+lmd: head az270deg
+lmd: head az300deg
+lmd: head az30deg
+lmd: head az330deg
+lmd: head az60deg
+lmd: head az90deg
+lmd: head frontal
+lmd: head of lion
+lmd: head person
+lmd: head profile
+lmd: head rear
+lmd: head rear view
+lmd: head side
+lmd: head, person
+lmd: head, sideview
+lmd: head-profile
+lmd: headrear
+lmd: headside
+lmd: human head
+lmd: human head child
+lmd: kids head
+lmd: lion head
+lmd: male head
+lmd: monkey Head
+lmd: person head
+lmd: seal head
+lmd: turtle Head
+lmd: woman head
+TAG: building
+lmd: aerial building
+lmd: airport buildings
+lmd: ancient building
+lmd: apartment building
+lmd: brick building
+lmd: building
+lmd: building (cathedral)
+lmd: building (facade)
+lmd: building (partially occluded)
+lmd: building (skyscraper)
+lmd: building (temple)
+lmd: building a
+lmd: building aerial
+lmd: building b
+lmd: building casa batllo
+lmd: building church
+lmd: building corner
+lmd: building crop
+lmd: building facade
+lmd: building front
+lmd: building high-rise residential
+lmd: building house
+lmd: building london tower
+lmd: building museum
+lmd: building occlude
+lmd: building occluded
+lmd: building occluded sd
+lmd: building occuded
+lmd: building ocluded
+lmd: building palace
+lmd: building region
+lmd: building region houses
+lmd: building skyscraper
+lmd: building tower
+lmd: building under construction
+lmd: building wall
+lmd: building wall in perspective
+lmd: building, edifice
+lmd: building, glas
+lmd: building1
+lmd: building2
+lmd: building_
+lmd: buildingl occluded
+lmd: buildingpart
+lmd: buildingregion
+lmd: buildings
+lmd: buildings block
+lmd: buildings crop
+lmd: buildings occluded
+lmd: buildings occludeds
+lmd: buildings occuded
+lmd: buildings ocluded
+lmd: buildingsoccluded
+lmd: buildingwhole
+lmd: skyscraper occluded
+lmd: skyscraper
+lmd: skyscraper crop
+lmd: skyscrapers occluded
+lmd: skyscrapers
+lmd: skyscraperoccluded
+lmd: buttresses building
+lmd: commercial building
+lmd: glass building
+lmd: highrise building
+lmd: historical building
+lmd: hotel building
+lmd: north side of building
+lmd: occluded building
+lmd: office building
+lmd: otherbuilding
+lmd: prudential building
+lmd: skyscraper building
+lmd: strange modern building
+lmd: tall building
+lmd: tower building
+lmd: tumbledown building
+lmd: wall building
+lmd: white building
+lmd: house
+lmd: house occluded
+lmd: houses
+lmd: houses occluded
+lmd: lighthouse
+lmd: house crop
+lmd: houses occludeds
+lmd: half timbered house
+lmd: house  occluded
+lmd: house in ruins
+lmd: house model
+lmd: house tower
+lmd: house,
+lmd: housepartial
+lmd: houses crop
+lmd: houses crops
+lmd: light house
+lmd: lignthouse
+lmd: row houses
+lmd: varehouse
+TAG: sky
+lmd: blue sky
+lmd: cielo, sky
+lmd: cloudy sky
+lmd: grey sky
+lmd: occluded sky
+lmd: sky
+lmd: sky clouds
+lmd: sky cloudy
+lmd: sky grey
+lmd: sky occluded
+lmd: sky region
+lmd: sky sunset
+lmd: sky, cloud
+lmd: sky, clouds
+lmd: skyregion
+lmd: sunset sky
+lmd: white sky
+TAG: wall
+lmd: wall
+lmd: brick wall
+lmd: partition wall
+lmd: wall occluded
+lmd: stones wall
+lmd: low wall
+lmd: stone wall
+lmd: back wall
+lmd: bevelled glass wall
+lmd: breakwall
+lmd: brick wall and floor
+lmd: concrete wall
+lmd: duplex wall receptical
+lmd: glass brick wall
+lmd: house wall
+lmd: left wall
+lmd: red wall with windows, bars
+lmd: rock cave wall
+lmd: stons wall
+lmd: top wall
+lmd: wall (stone)
+lmd: wall divide
+lmd: wallregion
+lmd: walls
+TAG: road
+lmd: road
+lmd: road region
+lmd: roadregion
+lmd: road highway
+lmd: asphalt road
+lmd: asphalt
+lmd: asphalt ground
+lmd: highway
+lmd: road paved
+lmd: snowy road
+lmd: ground (road)
+lmd: railroad track
+lmd: road parking
+lmd: road paving
+lmd: roads
+lmd: airport road
+lmd: asphalt (road)
+lmd: black road
+lmd: byke road
+lmd: dirt road
+lmd: pedestrian road
+lmd: road (intersection)
+lmd: road reagion
+lmd: road rear
+lmd: road region highway
+lmd: road surface
+lmd: road, asphalt
+lmd: road, bus lane
+lmd: road, paved
+lmd: road, pavement
+lmd: road_
+lmd: roadppp
+lmd: roadway
+lmd: sand road
+lmd: snow covered road
+lmd: street road
+lmd: the road
+lmd: wet road surface
+lmd: street
+lmd: pedestrian street
+lmd: street market
+lmd: street concrete
+lmd: street grate
+lmd: street, asfalt
+lmd: streets
+TAG: sidewalk
+lmd: sidewalk
+lmd: sidewalkregion
+lmd: sidewalk region
+lmd: brick sidewalk
+lmd: concrete sidewalk
+lmd: ground, floor, sidewalk
+lmd: pavement sidewalk
+lmd: pavement
+lmd: brick pavement
+lmd: road, sidewalk, pavement
+lmd: sidewalk cement
+lmd: sidewalk occluded
+lmd: snowy sidewalk
+lmd: walksideregion
+lmd: walkside
+lmd: walkside region
+TAG: sign
+lmd: sign
+lmd: street sign
+lmd: traffic sign
+lmd: exit sign
+lmd: one way sign
+lmd: onewaysign
+lmd: stop sign
+lmd: stopsign
+lmd: road sign
+lmd: do not enter sign
+lmd: sign occluded
+lmd: no parking sign
+lmd: traffic signal
+lmd: sign crop
+lmd: building sign
+lmd: parking sign
+lmd: signs
+lmd: store sign
+lmd: roadsign
+lmd: shop sign
+lmd: sign post
+lmd: signpost
+lmd: shopsign
+lmd: signboard
+lmd: advertisment sign
+lmd: business sign
+lmd: information sign
+lmd: no entry sign
+lmd: sign back
+lmd: sign board
+lmd: sign, banner
+lmd: signal
+lmd: signes
+lmd: speed sign
+lmd: "don't walk" sign
+lmd: donotentersign
+lmd: a blank sign
+lmd: ads sign
+lmd: air port sign
+lmd: arizona sign
+lmd: atlantis sign
+lmd: back of roadsign
+lmd: bar and restaurant sign
+lmd: bgo builders sign
+lmd: bin+sign
+lmd: construction sign
+lmd: construction sign (facing away)
+lmd: crossing sign
+lmd: crosswalk sign
+lmd: gas sign
+lmd: georgia street sign
+lmd: hanging sign
+lmd: highway sign
+lmd: intersate sign
+lmd: lg sign
+lmd: lv sign
+lmd: map sign
+lmd: mcdonalds sign
+lmd: millennium bostonian hotell sign
+lmd: no parking sign.
+lmd: no turn on red street sign
+lmd: noparking sign
+lmd: panneau sign
+lmd: park sign
+lmd: pedestrian sign
+lmd: pharmacy sign
+lmd: restaurant sign
+lmd: road sign - reserved parking
+lmd: road sign 1
+lmd: road signs
+lmd: roadsign (stop)
+lmd: roadsign2
+lmd: salvation army sign
+lmd: shoe store sign
+lmd: shop signs
+lmd: sign (chinese)
+lmd: sign (exit)
+lmd: sign 1
+lmd: sign 39a
+lmd: sign back crop
+lmd: sign c
+lmd: sign pedestrian crossing
+lmd: sign placard
+lmd: sign rear
+lmd: sign we_ve moved
+lmd: sign with graffity
+lmd: sign with map
+lmd: sign with text _peluqueria_
+lmd: sign-post
+lmd: signal, directional, light, flasher, lamp
+lmd: speed limit sign
+lmd: stop sign back
+lmd: stopsignback
+lmd: street name sign
+lmd: street sign "$112.50" fine
+lmd: street sign "yield"
+lmd: street sign back
+lmd: street sign no stopping
+lmd: street signs
+lmd: street_sign
+lmd: taxi sign
+lmd: text sign
+lmd: text, store sign 'the kendal'
+lmd: traffic sign one-way street
+lmd: trafficsignal
+lmd: warning sign
+lmd: yield sign
+TAG: chair
+lmd: chair
+lmd: chairback
+lmd: chair occluded
+lmd: armchair
+lmd: armchair occluded
+lmd: chair crop
+lmd: chairpart
+lmd: chairwhole az90deg
+lmd: chairs
+lmd: chairwhole az0deg
+lmd: armchair crop
+lmd: back of chair
+lmd: chairwhole az180deg
+lmd: chairwhole az270deg
+lmd: swivel chair
+lmd: chairwhole az210deg
+lmd: chairwhole az120deg
+lmd: chairwhole az300deg
+lmd: chairwhole az150deg
+lmd: chairwhole az60deg
+lmd: chairwhole az240deg
+lmd: chairwhole az330deg
+lmd: chairwhole az30deg
+lmd: chair az180deg
+lmd: chair top
+lmd: rocking chair
+lmd: chairwhole
+lmd: chair az120deg
+lmd: foam chair
+lmd: swivel chair crop
+lmd: chair az210deg
+lmd: kiddie chair
+lmd: armchairs occluded
+lmd: bottom of chair
+lmd: chair az270deg
+lmd: chair az300deg
+lmd: chair back
+lmd: minature chair
+lmd: swivel chair occluded
+lmd: wicker chair
+lmd: arm chair
+lmd: chair az150deg
+lmd: chair az240deg
+lmd: chair bottom half
+lmd: chair part
+lmd: chair pool
+lmd: chair top half
+lmd: chairpart az0deg
+lmd: deck chair
+lmd: desk chair
+lmd: foldin chair
+lmd: kiddie chair back
+lmd: office chair
+lmd: racking chair
+lmd: racking chair occluded
+lmd: wheelchair
+lmd: 4 legged chair
+lmd: armchair with cushion
+lmd: armchairs
+lmd: barrel chair
+lmd: beanbag chair
+lmd: chair (occluded)
+lmd: chair az0deg
+lmd: chair az330deg
+lmd: chair az60deg
+lmd: chair az90deg
+lmd: chair bench
+lmd: chair bottom
+lmd: chair crop occluded
+lmd: chair, seat
+lmd: chairback2
+lmd: chairbackrest
+lmd: chairoccluded
+lmd: chairpart az270deg
+lmd: chairs audience
+lmd: cushy chair
+lmd: easy chair
+lmd: mike's chair
+lmd: patio chair
+lmd: pld chair
+lmd: red chair
+lmd: rocking chair occluded
+lmd: rocking chair occuded
+lmd: side of chair
+lmd: stack chairs
+lmd: tall chair
+lmd: top of chair
+lmd: uncomfortable chair
+lmd: uncomfy chair
+lmd: wheelchair occluded
+lmd: whellchair
+lmd: wire chair
+TAG: bookshelf
+lmd: bookshelf
+lmd: bookshelffrontal
+lmd: bookshelfpart
+lmd: bookshelfside
+lmd: bookshelf occluded
+lmd: bookshelf frontal
+lmd: bookshelf crop
+lmd: bookshelf empty
+lmd: bookshelfwhole
+lmd: bookshelf (partially occluded)
+lmd: bookshelf empty occluded
+lmd: bookshelf occluded crop
+lmd: openshelf
+lmd: books on bookshelf
+lmd: bookself
+lmd: librarybookshelf
+lmd: book shelves
+lmd: shelf
+lmd: shelf label
+lmd: metal shelf
+lmd: a shelf
+lmd: boolshelf
+lmd: cd shelf
+lmd: decorative shelf
+lmd: key board shelf
+lmd: magazine shelf
+lmd: pantry shelf
+lmd: shelf crop
+lmd: small wooden shelf
+lmd: shelves
+lmd: bookshelves
+lmd: shelves occluded
+lmd: shelves crop
+lmd: more shelves
+lmd: shelves empty
+TAG: door
+lmd: door
+lmd: doorframe
+lmd: door occluded
+lmd: double door
+lmd: door handle
+lmd: garage door
+lmd: door crop
+lmd: doorway
+lmd: double door occluded
+lmd: doorfrontal
+lmd: door frontal
+lmd: doors
+lmd: cabinet door
+lmd: door frame
+lmd: glass door
+lmd: car door
+lmd: parking door
+lmd: cupboard door
+lmd: sliding door
+lmd: metal door
+lmd: open door
+lmd: double door crop
+lmd: shop door
+lmd: door ocluded
+lmd: doorside
+lmd: garage door occluded
+lmd: iron door
+lmd: overhead door
+lmd: revolving door
+lmd: revolving doors
+lmd: wooden door
+lmd: balcony door
+lmd: balcony with door
+lmd: bus door
+lmd: car door handle
+lmd: cdoor
+lmd: closet door
+lmd: door 1
+lmd: door 2
+lmd: door glass
+lmd: door gty
+lmd: door handle car
+lmd: door hinge
+lmd: door knocker
+lmd: door old
+lmd: door part
+lmd: door, entrance, doorway
+lmd: door_
+lmd: doorpartial
+lmd: elevator door
+lmd: exit door
+lmd: front door
+lmd: front door (lower half)
+lmd: gate, door
+lmd: glass doors
+lmd: iron door occluded
+lmd: metal door occluded
+lmd: pantry door
+lmd: parquing door
+lmd: sliding door crop
+lmd: sliding door, aka pocket door, in open position
+lmd: sliding glass door
+TAG: mountain
+lmd: mountain
+lmd: snowy mountain
+lmd: rocky mountain
+lmd: mountains
+lmd: mountain pass
+lmd: sonwy mountain
+lmd: forest mountain
+lmd: snowy mountain pass
+lmd: hill mountain
+lmd: montaña, mountain
+lmd: mountain range
+lmd: mountain snowy
+lmd: mountain view
+lmd: mountainside
+lmd: rocky mountains
+lmd: snow covered mountain pass
+lmd: snowly mountain
+lmd: ssnowy mountain
+lmd: hill
+lmd: hill urban
+lmd: hills
+lmd: hillscape
+lmd: hillside
+lmd: rocky hill
+lmd: snowy hill
+lmd: urban hill
+TAG: table
+lmd: table
+lmd: table occluded
+lmd: table crop
+lmd: night table
+lmd: night table occluded
+lmd: end table
+lmd: conference table
+lmd: table cloth
+lmd: coffee table
+lmd: side table
+lmd: table top
+lmd: tables
+lmd: night table crop
+lmd: glass table
+lmd: console table
+lmd: cooktable
+lmd: night stand table
+lmd: table mat
+lmd: tableland
+lmd: tabletop
+lmd: console table occluded
+lmd: dining table
+lmd: picnic table
+lmd: pool table
+lmd: round table
+lmd: small table
+lmd: table runner
+lmd: bedside table
+lmd: collapsible table
+lmd: dinning table
+lmd: end table occluded
+lmd: kitchen table
+lmd: massage table
+lmd: serving table
+lmd: smalltablewithflowerarrangementontop
+lmd: storage table
+lmd: table (occluded)
+lmd: table *x
+lmd: table base
+lmd: table loccluded
+lmd: table or counter
+lmd: table top kitchen
+lmd: counter top
+lmd: table top, marble
+lmd: tvtable
+lmd: desk
+lmd: deskfrontal
+lmd: deskpart
+lmd: deskpark
+lmd: deskwhole
+lmd: desk frontal
+lmd: desk crop
+lmd: desk top
+lmd: desktop region
+lmd: writing desk
+lmd: desk occluded
+lmd: desks
+lmd: night desk
+lmd: worktop
+lmd: kitchen worktop
+lmd: counter
+lmd: counter top
+lmd: countertop
+lmd: kitchen counter
+lmd: bar counter
+lmd: counter bottom
+lmd: counter crop
+lmd: counter ledge
+lmd: counter/bench top
+lmd: countertop crop
+lmd: food counter
+lmd: hostess counter
+lmd: island counter
+TAG: cabinet
+lmd: cabinet
+lmd: filecabinet
+lmd: cabinets
+lmd: filing cabinet
+lmd: file cabinet
+lmd: filecabinetpart
+lmd: kitchen cabinet
+lmd: filing cabinets
+lmd: dish cabinet
+lmd: display cabinet
+lmd: ffilecabinet
+lmd: file cabinet crop
+lmd: file cabinet crop occluded
+lmd: filecabinet occluded
+lmd: filecabinetside
+lmd: filing cabinet occluded
+lmd: filing cabinet_
+lmd: lower kitchen cabinet
+lmd: metal cabinet
+lmd: part of cabinets
+lmd: cupboard
+lmd: cupboards
+lmd: cupboard crop
+lmd: cupboard occluded
+lmd: cupboards crop
+lmd: cupboards occluded
+lmd: upper kitchen cupboard
+TAG: keyboard
+lmd: keyboard
+lmd: keyboardrotated
+lmd: keyboard crop
+lmd: keyboardpart
+lmd: keyboard occluded
+lmd: black keyboard
+lmd: keyboard part
+TAG: floor
+lmd: floor
+lmd: floorplane
+lmd: wood floor
+lmd: flooring
+lmd: tile floor
+lmd: floor *x
+lmd: brick wall and floor
+lmd: concrete floor
+lmd: floor region
+lmd: floor vent
+lmd: floor_
+lmd: kitchen floor *x
+lmd: wooden flooring
+TAG: streetlight
+lmd: streetlight
+lmd: streelight
+lmd: steetlight
+lmd: streetlight crop
+lmd: streetlight occluded
+lmd: streetlight lamppost
+lmd: street-light
+lmd: lamp, light, streetlight
+lmd: lamp, streetlight
+lmd: light, lamp, streetlight
+lmd: streetlights
+lmd: street light
+lmd: street lighting
+lmd: light, street light, lamp
+lmd: street light post
+lmd: street lamp
+lmd: street lamp and pole
+lmd: street lamp with many bulbs
+lmd: streetlamp
+lmd: lamp post
+lmd: lamppost
+lmd: lampost
+lmd: lamp-post
+lmd: road lamp
+lmd: road light
+lmd: building lamp
+lmd: lamp, post
+lmd: light, lamp, streetlamp
+lmd: post, lamp post
+lmd: public lights lamp
+lmd: stree lamp
+lmd: steet light
+lmd: streerlight
+lmd: street lights
+lmd: streetlight lamppost
+TAG: lamp
+lmd: lamp
+lmd: floor lamp
+lmd: lamp crop
+lmd: table lamp
+lmd: tablelamp
+lmd: wall lamp
+lmd: lamp occluded
+lmd: lampshade
+lmd: hanging lamp
+lmd: lamp shade
+lmd: ceiling lamp
+lmd: desk lamp
+lmd: light lamp
+lmd: reading lamp
+lmd: bedside lamp
+lmd: cliplamp
+lmd: floor lamp *lamp
+lmd: floor lamp crop
+lmd: floor lamp occluded
+lmd: floor llamp
+lmd: headlamp
+lmd: headlight, light, lamp
+lmd: lamp 1
+lmd: lamp light
+lmd: lampe
+lmd: lamppostpartial
+lmd: lantern lamp
+lmd: light fixture *lamp
+lmd: light, lamp, headlight
+lmd: standard lamp
+TAG: plant
+lmd: plant
+lmd: plants
+lmd: potted plant
+lmd: planter
+lmd: plant in pot
+lmd: plant crop
+lmd: plant box
+lmd: cactus plant
+lmd: dried plant
+lmd: plant occluded
+lmd: aquatic plant
+lmd: aquatic plants
+lmd: basket of plants
+lmd: dray plant
+lmd: dry plant
+lmd: flower planter
+lmd: flowering plant
+lmd: house plant
+lmd: houseplant
+lmd: pineapple plant
+lmd: plant *x
+lmd: plant basket
+lmd: plant fern
+lmd: plant grapevine
+lmd: plant in a pot
+lmd: plant leaves
+lmd: plant stand
+lmd: plants fern
+lmd: plants ferns
+lmd: potted plants
+lmd: potting flower plant
+TAG: poster
+lmd: poster
+lmd: posterclutter
+lmd: poster occluded
+lmd: poster crop
+lmd: posters
+lmd: movie poster
+lmd: posters pole
+lmd: title of poster
+TAG: pole
+lmd: pole
+lmd: telephone pole
+lmd: pole occluded
+lmd: light pole
+lmd: pole crop
+lmd: utility pole
+lmd: flagpole
+lmd: poles
+lmd: sidewalk pole
+lmd: electric pole
+lmd: flag pole
+lmd: lightpole
+lmd: telegraph pole
+lmd: car pole
+lmd: concrete pole
+lmd: electricity pole
+lmd: eletric pole
+lmd: fire pole
+lmd: hydro pole
+lmd: lantern pole
+lmd: telegraphs pole
+TAG: screen
+lmd: screenfrontal az270deg
+lmd: screen frontal
+lmd: frontalscreen
+lmd: screen
+lmd: screenwhole
+lmd: screenfrontal
+lmd: screenwhole az240deg
+lmd: screenwhole az300deg
+lmd: screenpart
+lmd: screenwhole az210deg
+lmd: screenfrontal az300deg
+lmd: screenwhole az270deg
+lmd: screenwhole az330deg
+lmd: computer screen
+lmd: computer display
+lmd: screenback
+lmd: screenwhole az180deg
+lmd: screen az270deg
+lmd: screen az90deg
+lmd: screen crop
+lmd: pc screen
+lmd: screen az180deg
+lmd: screen az300deg
+lmd: screen occluded
+lmd: screenpart az120deg
+lmd: monitor, screen
+lmd: screen az240deg
+lmd: screen az330deg
+lmd: screenfrontal az240deg
+lmd: screenrear
+lmd: screenwhole az0deg
+lmd: pc screen frontal
+lmd: screen az150deg
+lmd: screen az210deg
+lmd: screen door
+lmd: screen frontal flat
+lmd: screen frontal part
+lmd: screen monitor
+lmd: screen movie projector
+lmd: screen side
+lmd: screen whole
+lmd: screenfrontalpart
+lmd: screenoccluded
+lmd: screenside
+lmd: screenwhole az150deg
+lmd: screenwhole az30deg
+lmd: screenwhole az90deg
+lmd: monitor
+lmd: monitor crop
+lmd: computer monitor
+lmd: monitor occluded
+lmd: lcd monitor
+lmd: monitor stand
+lmd: computer monitor crop
+lmd: dell crt monitor
+lmd: monitor panel
+lmd: monitorfrontal
+lmd: monitorside
+TAG: fence
+lmd: fence
+lmd: fence occluded
+lmd: fence crop
+lmd: fence - x
+lmd: fence cyclonic mesh
+lmd: fence post
+lmd: fence, gate
+lmd: fences
+lmd: fences crops
+lmd: gate, fence, entrance
+lmd: stone fence post
+lmd: tenis fence
+TAG: balcony
+lmd: balcony
+lmd: covered balcony
+lmd: balcony covered
+lmd: balcony occluded
+lmd: balcony crop
+lmd: balcony railing
+lmd: covered balcony occluded
+lmd: balcony rail
+lmd: terrace
+lmd: terrace occluded
+lmd: covered balcony crop
+lmd: coverede balcony
+lmd: double balcony
+lmd: roof balcony
+TAG: wheel
+lmd: wheel
+lmd: wheel rim
+lmd: car wheel
+lmd: wheel occluded
+lmd: chair wheel
+lmd: wheelbarrow
+lmd: wheel tire
+lmd: wheel, tire
+lmd: tire
+lmd: bus tire
+lmd: pneumatic tire
+lmd: wheels
+TAG: mouse
+lmd: mouse
+lmd: computer mouse
+lmd: mouse crop
+lmd: mousepart
+TAG: picture
+lmd: picture
+lmd: picture frame
+lmd: picture crop
+lmd: picture occluded
+lmd: picture on hook
+lmd: pictures
+lmd: framed picture
+lmd: picture *x
+lmd: picture in frame
+lmd: a picture with a frame
+lmd: ceramics picture
+lmd: partial picture in frame
+lmd: picture framed
+lmd: picture of flag
+lmd: picture on wall
+lmd: picture2
+lmd: picture3
+lmd: pictures in frames
+lmd: pictures on hook
+lmd: wall picture
+lmd: pictureframe
+lmd: photograph
+lmd: photography
+lmd: photograph occluded
+lmd: photo
+lmd: framed photo
+lmd: photo frame
+lmd: photograf
+TAG: boat
+lmd: sailboat
+lmd: boat
+lmd: boats
+lmd: boat occluded
+lmd: sail boat
+lmd: sailing boat
+lmd: boat crop
+lmd: motorboat
+lmd: motor boat
+lmd: boats occluded
+lmd: boat cropped
+lmd: sailing boat occluded
+lmd: boat with rowers
+lmd: fishing boat
+lmd: fishing boat asian
+lmd: gravy boat
+lmd: large boat
+lmd: motorboat occluded
+lmd: motorboats occluded
+lmd: outboard motor boat
+lmd: sail boat occluded
+lmd: sailing  boat
+lmd: sailing boat crop
+lmd: sailing boat occuded
+TAG: ceiling
+lmd: ceiling
+lmd: ceiling region
+lmd: ceiling*x
+lmd: glass ceiling
+TAG: field
+lmd: field
+lmd: field grass
+lmd: desert field
+lmd: sown field
+lmd: grass field
+lmd: cornfield
+lmd: field desert
+lmd: green field
+lmd: sunflowers field
+lmd: field flowers
+lmd: field, grass
+lmd: field, grass, ground
+lmd: snowy covered field
+lmd: sunflower field
+lmd: sunflowers  field
+lmd: wheat field
+TAG: sea
+lmd: sea water
+lmd: water sea
+lmd: sea
+lmd: sea  water
+lmd: sea beach
+lmd: ocean water
+lmd: body of water
+lmd: water occean
+lmd: water ocean
+lmd: water ocean lake near pier
+TAG: flower
+lmd: flower
+lmd: flowers
+lmd: flower pot
+lmd: flowerpot
+lmd: potted flowers
+lmd: flower bed
+lmd: flowers in pot
+lmd: vase of flowers
+lmd: flower in pot
+lmd: flowers in vase
+lmd: dry flowers
+lmd: dried flowers
+lmd: flower arrangement
+lmd: basket of flowers
+lmd: flower in vase
+lmd: flower occluded
+lmd: flower petal
+lmd: pot of flowers
+lmd: purple flower
+lmd: artificial flowers
+lmd: bowl of flowers
+lmd: branch flower
+lmd: dried flowers in pot
+lmd: dried flowers in vase
+lmd: bouquet, flower, arrangement, pussywillow, brancheslmd: conference table
+lmd: flower basket
+lmd: flower bouquet
+lmd: flower box
+lmd: flower core
+lmd: flower crop
+lmd: flower decoration
+lmd: flower lily
+lmd: flowerbed
+lmd: flowers in urn
+lmd: flowers on stand
+lmd: flowervase
+lmd: potted flower
+lmd: red flower
+lmd: rose in vase *flower
+lmd: sunflower
+lmd: sunflowers
+lmd: vase flowers
+lmd: vase with flowers
+lmd: white flowers
+lmd: bouquet
+lmd: bouquet flowers
+lmd: bouquet, flower, arrangement, pussywillow, branches
+lmd: flower bouquets
+lmd: paintedflowerbouquet
+TAG: painting
+lmd: painting
+lmd: painting crop
+lmd: painting occluded
+lmd: framed painting
+lmd: painting reflexion
+lmd: quadro painting art
+lmd: wall painting
+TAG: plate
+lmd: plate
+lmd: decorative plate
+lmd: plates
+lmd: stack of plates
+lmd: bread plate
+lmd: plate of food
+lmd: decorative plates
+lmd: fruit plate
+lmd: plate food
+lmd: plate of fruit
+lmd: big plates
+lmd: decortive plate
+lmd: plate machine
+lmd: plate occluded
+lmd: plate of bread
+lmd: plate of salad
+lmd: plate on stand
+lmd: plate with food
+lmd: plate2
+lmd: plate_
+lmd: small plate
+lmd: small plates
+lmd: soup bowl plate
+lmd: dish
+lmd: dishes
+lmd: soapdish
+lmd: soap dish
+lmd: soup and salad dish
+lmd: ceramic dish
+lmd: dish occluded
+lmd: dish *x
+lmd: serving dish
+lmd: stack of dishes
+lmd: butter dish
+lmd: decoration dish
+lmd: decorative dish
+lmd: dish with food
+lmd: dish with lobsters
+lmd: servering dish
+lmd: soupl and salad dish
+TAG: license plate
+lmd: license plate
+lmd: licenseplate
+lmd: car license plate
+lmd: license plate occluded
+lmd: license plale
+lmd: license plante occluded
+lmd: license plate, plate
+lmd: plate, license plate
+lmd: licese plate
+lmd: licsense plate
+lmd: lincense plate
+lmd: registration plate
+lmd: number plate
+lmd: car plate
+TAG: bird
+lmd: bird
+lmd: bird left mid water
+lmd: bird right near forest
+lmd: bird front mid forest
+lmd: bird right mid forest
+lmd: bird left near forest
+lmd: bird other near forest
+lmd: bird right mid grassland
+lmd: bird right mid water
+lmd: bird right near water
+lmd: crane bird
+lmd: bird crop
+lmd: bird left mid forest
+lmd: bird left mid grassland
+lmd: bird occluded
+lmd: bird right near grassland
+lmd: bird right near mountain
+lmd: bird left near mountain
+lmd: bird left near water
+lmd: bird right near desert
+lmd: bird front mid grassland
+lmd: bird other mid forest
+lmd: bird rear mid forest
+lmd: bird right mid desert
+lmd: birds
+lmd: a bird
+lmd: bird , animal
+lmd: bird chick
+lmd: bird dropping
+lmd: bird front mid water
+lmd: bird front near forest
+lmd: bird left far water
+lmd: bird left mid desert
+lmd: bird left near desert
+lmd: bird left near grassland
+lmd: bird profile
+lmd: bird rear near forest
+lmd: bird right far forest
+lmd: bird right far water
+lmd: bird right mid savanna
+lmd: bird sparrow
+lmd: bird, animal
+lmd: bird, pidgeon
+lmd: birdk
+lmd: birds other near mountain
+lmd: dancing bird
+lmd: flamingo bird
+lmd: flying bird
+lmd: migrant bird
+lmd: redwing blackbird
+lmd: swan, bird
+TAG: book
+lmd: book
+lmd: books
+lmd: stack of books
+lmd: books on shelf
+lmd: bookcase
+lmd: book shelf
+lmd: row of books
+lmd: book case
+lmd: cook books
+lmd: phonebook
+lmd: stacked books
+lmd: books on a shelf
+lmd: cookbooks
+lmd: book end
+lmd: book ends
+lmd: book occluded
+lmd: bookend
+lmd: bookrest
+lmd: books occluded
+lmd: bookspile
+lmd: cook book
+lmd: cookbook
+lmd: green book
+lmd: occluded book
+lmd: open book
+lmd: pile of books
+lmd: stacks of books *x
+TAG: bottle
+lmd: bottle
+lmd: wine bottle
+lmd: bottles
+lmd: water bottle
+lmd: bottle occluded
+lmd: drug bottle
+lmd: soap bottle
+lmd: perfume bottle
+lmd: bottle of wine
+lmd: bottle part
+lmd: bottle soap
+lmd: glass bottles
+lmd: water bottles
+lmd: beer  bottle
+lmd: bottle (part)
+lmd: bottle of red wine
+lmd: bottle of white wine
+lmd: bottle of windex
+lmd: bottles of olive oil
+lmd: decorative bottle *x
+lmd: detergent bottle
+lmd: feeding bottle
+lmd: lotion bottle
+lmd: oil bottle
+lmd: plastic bottle
+lmd: plastic bottle of soap
+lmd: plastic water  bottle
+lmd: red wine bottle
+lmd: soap bottle crop
+lmd: soda bottle
+lmd: vinegar bottle
+lmd: waterbottle
+lmd: wine bottles
+TAG: text
+lmd: text
+lmd: text/date
+lmd: text 113
+lmd: two text
+TAG: mug
+lmd: mug
+lmd: mug and saucer
+lmd: mugs
+lmd: mug occluded
+lmd: ceramic mug
+lmd: coffee mug
+lmd: mug metal
+TAG: sofa
+lmd: sofa
+lmd: sofa occluded
+lmd: sofa crop
+lmd: sofapart
+lmd: sofa bed
+lmd: sofawhole
+lmd: chair, sofa
+lmd: sofa chair
+lmd: base of sofa
+lmd: couch
+lmd: couch *x
+lmd: couch cusions
+TAG: curtain
+lmd: curtain
+lmd: curtains
+lmd: shower curtain
+lmd: green curtain
+lmd: lace curtain
+lmd: white curtain
+lmd: window curtain
+TAG: rock
+lmd: rock
+lmd: rocks
+lmd: little rock
+lmd: mineral rock
+lmd: rock aplite
+lmd: rock cropped
+lmd: rock garnierite
+lmd: rock occluded
+lmd: rock, stone
+lmd: rocks *x
+lmd: under water rocks
+lmd: stone
+lmd: stones
+lmd: stone ball
+lmd: stone block
+lmd: broken stone
+lmd: flat stone
+lmd: rock, stone
+lmd: stone ball crop
+lmd: stone formation
+lmd: stone marker
+lmd: stone occluded
+TAG: grass
+lmd: grass
+lmd: ground grass
+lmd: groun grass
+lmd: grassland
+lmd: grass dry
+lmd: grass region
+lmd: grassregion
+lmd: dry grass
+lmd: grass laun
+lmd: grass, savannah
+lmd: ground (grass)
+lmd: ground grass crop
+lmd: groung grass
+lmd: muddy grass
+lmd: vegetation grass shrubs
+TAG: awning
+lmd: awning
+lmd: awning occluded
+lmd: awning crop
+lmd: awning tidy up
+lmd: building awning
+lmd: glass awning/overhang
+TAG: bench
+lmd: bench
+lmd: bench occluded
+lmd: park bench
+lmd: bench crop
+lmd: bench seat
+lmd: benchs
+lmd: bench cropped
+lmd: bench seating
+lmd: half a bench
+lmd: partially obscured picnic bench
+lmd: stone bench
+TAG: mirror
+lmd: mirror
+lmd: mirror occluded
+lmd: mirror crop
+lmd: rear view mirror
+lmd: rearview mirror
+lmd: framed mirror
+lmd: door mirror
+lmd: mirror m
+lmd: mirror, side-view mirror
+lmd: wall mirror
+lmd: wing mirror
+TAG: traffic light
+lmd: traffic light
+lmd: traffic lights
+lmd: traffic light side
+lmd: traffic light frontal
+lmd: traffic light back
+lmd: traffic light rear
+lmd: traffic lights crop
+lmd: traffic light and post
+lmd: traffic  lights
+lmd: light, traffic light
+lmd: the back of a traffic light
+lmd: traffic light post
+lmd: traffic light, side
+lmd: traffic light, side view
+lmd: walk traffic light
+lmd: trafficlight
+lmd: trafficlightside
+lmd: trafficlight side
+lmd: trafficlights
+lmd: traffic light and post
+lmd: traffic light pole
+lmd: traffic lights occluded
+lmd: traffic-light
+lmd: traffice light
+lmd: trafic light
+lmd: walk light
+lmd: walk signal light_
+lmd: walking light trafficlight
+TAG: cushion
+lmd: cushion
+lmd: cushion occluded
+lmd: seat cushion
+lmd: cushion crop
+lmd: chair cushion
+lmd: bench cushion
+lmd: cushion *x
+lmd: cushion pillow
+lmd: cushion*x
+lmd: set of cushions
+lmd: sofa cushions
+TAG: river
+lmd: river water
+lmd: water river
+lmd: river
+lmd: riverside
+lmd: frozen over river
+lmd: river bed
+lmd: river side
+lmd: river, waterway, canal
+lmd: rives water
+TAG: pot
+lmd: pot
+lmd: plant pot
+lmd: pot plant
+lmd: plant pot occluded
+lmd: pottery
+lmd: pot plant occluded
+lmd: plant pot crop
+lmd: pot plant crop
+lmd: ceramic pot
+lmd: pot occluded
+lmd: pots
+TAG: column
+lmd: column
+lmd: column occluded
+lmd: columns
+lmd: wood column
+lmd: columnslanted
+lmd: building columns
+lmd: yellow columns (entrance)
+lmd: pillar
+lmd: pillar of building
+lmd: pillar2
+lmd: pillarpartial
+lmd: stone pillar
+TAG: flag
+lmd: flag
+lmd: american flag
+lmd: flags
+lmd: flag occluded
+lmd: flag, usa
+lmd: greek flag
+lmd: italian flag
+lmd: uk flag
+lmd: us flag
+lmd: usa flag
+TAG: switch
+lmd: lightswitch
+lmd: light switch
+lmd: switch
+lmd: light switch plate
+lmd: light swtich
+lmd: light switches
+lmd: double gang light switch
+lmd: fire alarm switch
+lmd: light switches (almost profile view)
+lmd: oven light switch
+lmd: switch box
+lmd: white wall outlet and switch
+TAG: stair
+lmd: stairs
+lmd: staircase
+lmd: stair
+lmd: staircase occluded
+lmd: stairs occluded
+lmd: stairway
+lmd: spiral staircase
+lmd: stairtop
+lmd: stairwelllmd: steps
+lmd: steps occluded
+lmd: steps
+lmd: sidewalk steps
+TAG: crosswalk
+lmd: zebra crossing
+lmd: crossing
+lmd: zebra-crossing
+lmd: crossingwalk
+lmd: zebracrossing
+lmd: zebra crossing
+lmd: crosswalk
+lmd: cross
+lmd: crossing
+lmd: cross walk
+lmd: crossinwalk
+lmd: crosswalk occluded
+TAG: speaker
+lmd: speaker
+lmd: loudspeaker
+lmd: loudspeaker crop
+lmd: computerspeaker
+lmd: speakers
+lmd: speaker1
+lmd: speaker2
+TAG: sand
+lmd: sand beach
+lmd: horseshoe beach
+lmd: sand
+lmd: sands
+lmd: sand occluded
+lmd: sand pile
+lmd: ground sand
+lmd: beach, sand
+TAG: pane
+lmd: pane
+lmd: pane occluded
+lmd: pane crop
+TAG: television
+lmd: television
+lmd: television crop
+lmd: television case
+lmd: television screen
+lmd: television set
+lmd: television tv
+lmd: tv
+lmd: tv stand
+lmd: tv crop
+lmd: tv stand occluded
+lmd: tv front
+lmd: tvset
+lmd: television tv
+lmd: tv occluded
+lmd: tv screen
+lmd: tv screen flat panel
+lmd: tvscreen
+TAG: phone
+lmd: telephone
+lmd: phone
+lmd: entry phone
+lmd: cell phone
+lmd: entry-phone
+lmd: cellphone
+lmd: telephone occluded
+lmd: _pay phone_
+lmd: celular phone
+lmd: payphone
+lmd: phone box
+lmd: phone fax
+lmd: phone handset
+lmd: public phone
+lmd: telephone box occluded
+lmd: telephone crop
+TAG: motorbike
+lmd: motorbike
+lmd: motorbike occluded
+lmd: motorbike side
+lmd: motorbikes side
+lmd: motorbike crop
+lmd: motorbike side occluded
+lmd: motorbikes occluded
+lmd: motorbikes side occluded
+lmd: bike, motorbike, motorcycle, vehicle
+lmd: scooter motorbike
+lmd: dirt bike motorbike
+lmd: moped  motorbike
+lmd: motorbike side crop
+lmd: motorbikes crop
+lmd: motorcycle, motorbike
+lmd: motorcycle
+lmd: peopleonmotorcycle
+lmd: motobikes side
+lmd: motortbike side
+lmd: mototbikes side occluded
+lmd: motrorbike
+lmd: motrorbike occluded
+lmd: bike, motobike, motorcycle
+lmd: motor bike
+lmd: neon green motorcycle
+lmd: parked motorcycle
+lmd: scooter
+lmd: scooter motorbike
+lmd: scooter rear
+lmd: mototbike
+lmd: bike, motobike, motorcycle
+TAG: handrail
+lmd: handrail
+lmd: bridge handrail
+lmd: handrail occluded
+TAG: pillow
+lmd: pillow
+lmd: pillow occluded
+lmd: throw pillow
+lmd: pillows
+lmd: gone fishing pillow
+lmd: pillow (occluded)
+lmd: pillow crop
+lmd: throw pillows
+lmd: toss pillow
+TAG: path
+lmd: path
+lmd: bicycle path
+lmd: bike path
+lmd: footpath
+lmd: pathway
+TAG: vase
+lmd: vase
+lmd: ceramic vase
+lmd: vase occluded
+lmd: vase crop
+lmd: vases
+lmd: ceramic vase occluded
+lmd: glass vase with plant
+lmd: vase *x
+lmd: vase -x
+lmd: vase and roses
+lmd: vase of roses
+TAG: mousepad
+lmd: mousepad
+lmd: mousepad crop
+lmd: mouse pad
+TAG: dog
+lmd: dog
+lmd: dog occluded
+lmd: dog crop
+lmd: dog sitting
+lmd: dog, pet, animal, canine
+TAG: sink
+lmd: sink
+lmd: sink occluded
+lmd: kitchen sink
+lmd: sink crop
+lmd: drainboard sink
+lmd: pedastal sink
+lmd: pedestal sink
+lmd: sink bowl
+lmd: sink cro
+lmd: stainless steel kitchen sink
+lmd: washbasin
+lmd: washbasin crop
+lmd: washbasin occluded
+TAG: box
+lmd: box
+lmd: box occluded
+lmd: boxes
+lmd: decorative box
+lmd: tissue box
+lmd: storage box
+lmd: box of tea
+lmd: newspaper box
+lmd: cardboard box
+lmd: postbox
+lmd: box crop
+lmd: box truck
+lmd: decorative box *x
+lmd: kleenex box
+lmd: tea box
+lmd: tin box
+lmd: toolbox
+lmd: blue box
+lmd: box *x
+lmd: box contants
+lmd: box of vegetables
+lmd: boxes crop
+lmd: boxs
+lmd: boxwheatthins
+lmd: bread box
+lmd: breaker box
+lmd: cardboardbox
+lmd: cereal box
+lmd: cool box
+lmd: decorative boxes
+lmd: flowerbox
+lmd: high power utility box
+lmd: irrigation control box
+lmd: litterbox
+lmd: metal box
+lmd: pen box
+lmd: plant box occluded
+lmd: plastic box
+lmd: power box
+lmd: rubbish box
+lmd: tea boxes
+lmd: trashbox
+lmd: treasure box
+lmd: white box
+lmd: wooden box
+TAG: glass
+lmd: glass
+lmd: wine glass
+lmd: glasses
+lmd: wine glasses
+lmd: cup glass
+lmd: glass ball
+lmd: stained glass
+lmd: cocktail glass
+lmd: cup wine glass
+lmd: drinking glass
+lmd: glass in door
+lmd: wine glass *glass
+lmd: wineglass
+lmd: glass bowl
+lmd: glass of oj
+lmd: glass of wine
+lmd: glass sculpture *x
+lmd: glasses *x
+lmd: plastic glass
+lmd: apple store nyc glass cube
+lmd: champagne glass
+lmd: decorative glass bowl
+lmd: glass beer
+lmd: glass crop
+lmd: glass fish *x
+lmd: glass jar
+lmd: glass orb
+lmd: glass pane
+lmd: glass roof
+lmd: glass vase with plant
+lmd: martini glass
+lmd: red glass
+lmd: winen glass
+TAG: eyeglasses
+lmd: eyeglasses
+lmd: sunglasses
+lmd: eye glasses
+TAG: paper
+lmd: paper
+lmd: papers
+lmd: sheet of paper
+lmd: pad of paper
+lmd: occluded paper
+lmd: page of paper
+lmd: paperpile
+lmd: paperstack
+lmd: pile of paper
+lmd: stacj of papers
+lmd: stack of papers
+lmd: stackofpaper
+lmd: stackofpaper2
+lmd: stacks of blank paper
+TAG: bridge
+lmd: bridge
+lmd: footbridge
+lmd: bridge occluded
+lmd: arch bridge
+lmd: bridge between buildings
+lmd: bridge crop
+lmd: bridgepedestrians
+lmd: foot bridge
+TAG: crowd
+lmd: crowd
+lmd: crowd of people
+lmd: group of people
+lmd: a group of people
+lmd: distantgroupofpeople
+lmd: groupofpeople
+lmd: people crowd
+TAG: truck
+lmd: truck
+lmd: truck occluded
+lmd: truck rear
+lmd: truck crop
+lmd: truck side occluded
+lmd: truck side
+lmd: pickup truck
+lmd: truck front
+lmd: truck frontal
+lmd: truck back
+lmd: truck left
+lmd: truck (rear)
+lmd: truck front right
+lmd: truck rear occluded
+lmd: blue pickup truck
+lmd: breakdown truck
+lmd: delivery truck
+lmd: distanttruck
+lmd: fire truck
+lmd: pickup truck az180deg
+lmd: pickup truck back
+lmd: red truck
+lmd: small truck
+lmd: tank truck
+lmd: tow truck
+lmd: truck back left
+lmd: truck behind a tree
+lmd: truck front left
+lmd: truck frontal occluded
+lmd: truck left side
+lmd: truck right
+lmd: truckfront
+lmd: truckrear
+lmd: trucks occluded
+lmd: truckside
+lmd: van truck
+lmd: yellow truck
+TAG: brushes
+lmd: brushes
+lmd: paintbrushes
+TAG: whiteboard
+lmd: whiteboard
+lmd: whiteboardpart
+lmd: whiteboard crop
+TAG: carpet
+lmd: carpet
+lmd: carpet crop
+lmd: carpet occluded
+lmd: floor carpet
+lmd: persian carpet
+lmd: rug
+lmd: area rug
+lmd: rug crop
+lmd: animal rug
+lmd: floor mat *rug
+lmd: oriental rug
+lmd: rug (partially obscured)
+lmd: rug occluded
+lmd: stripped rug
+lmd: door mat
+lmd: doormat
+TAG: bed
+lmd: bed
+lmd: bed crop
+lmd: bed occluded
+lmd: bed (occluded)
+lmd: bedandframe
+lmd: bede crop
+TAG: ceiling light
+lmd: ceiling light
+lmd: fluorescent ceiling light
+TAG: bicycle
+lmd: bicycle
+lmd: bicycle occluded
+lmd: bicycleside
+lmd: bicycle crop
+lmd: bicycles
+lmd: bicycle patj
+lmd: bicycle tire
+lmd: bicycles occluded
+lmd: bike, bicycle
+lmd: occluded bicycle
+lmd: bycicle
+lmd: bycicle side
+lmd: bycicles
+lmd: single bike
+TAG: basket
+lmd: basket
+lmd: basket occluded
+lmd: basket crop
+lmd: laundry basket
+lmd: waste basket
+lmd: basket of bread
+lmd: basket of fruit
+lmd: wicker basket
+lmd: wooden basket
+lmd: basket of acorns
+lmd: basket of apples
+lmd: basket of banana
+lmd: basket of corn
+lmd: basket of eggs
+lmd: basket of index cards
+lmd: basket of onions
+lmd: basket of potatos
+lmd: basket of towels
+lmd: basket of vegtables
+lmd: baskets
+lmd: laundry basket *basket
+TAG: cup
+lmd: cup
+lmd: papercup
+lmd: paper cup
+lmd: cup glass
+lmd: stack of cups
+lmd: coffee cup
+lmd: cups
+lmd: tea cup
+lmd: saucer and tea cup
+lmd: teacup
+lmd: teacup and saucer
+lmd: cup wine glass
+lmd: cup occluded
+lmd: metal cup
+lmd: plastic cup
+lmd: tea cup and saucer
+lmd: coffe cup
+lmd: coffecup
+lmd: coffecup plate with spoon
+lmd: coffee paper cup
+lmd: cup *x
+lmd: cup of coffee
+lmd: cup of spoons
+lmd: cup of tea
+lmd: cup-and-saucer
+lmd: milk steaming cup
+lmd: paper coffee cup
+lmd: paper cup with straws
+lmd: pencil cup
+lmd: saucers and tea cups
+lmd: seving cup and saucer
+lmd: small-cup
+lmd: stack of cups_
+lmd: teacups and saucers
+TAG: eye
+lmd: eye
+lmd: cat eye
+lmd: bird eye
+lmd: right eye
+lmd: cats eye
+lmd: eyeball
+lmd: left eye
+lmd: bird_s eye
+lmd: car eye
+lmd: elephant eye
+lmd: eye left
+lmd: eye of the frog
+lmd: eye seal
+lmd: left dog eye
+lmd: leopard left eye
+lmd: leopard right eye
+lmd: lion_s eye
+lmd: parrot eye
+lmd: right dog eye
+TAG: clock
+lmd: clock
+lmd: roundclock
+lmd: wallclock
+lmd: alarm clock
+lmd: clock radio
+lmd: wall clock
+lmd: analogue clock dial
+lmd: clock (occluded)
+lmd: clock face
+lmd: clock occluded
+lmd: digital clock crop
+lmd: grandfather clock
+lmd: table clock
+lmd: wooden clock
+TAG: firehydrant
+lmd: firehydrant
+lmd: fire hydrant
+lmd: hydrant
+lmd: fire hydrent
+TAG: knob
+lmd: door knob
+lmd: knob
+lmd: doorknob
+lmd: cubbord knob
+lmd: curtain knob *x
+lmd: knob *x
+lmd: stove top knobs
+lmd: drawer handle
+lmd: doorhandle
+lmd: handle
+TAG: parkingmeter
+lmd: parkingmeter
+lmd: parking meter
+lmd: parking meter occluded
+lmd: parquing meter
+lmd: parquing meter occluded
+TAG: manhole
+lmd: manhole
+lmd: manhole cover
+lmd: manhole cover occluded
+lmd: manholecover
+lmd: man hole cover
+lmd: man-hole cover
+lmd: manole cover
+TAG: van
+lmd: van
+lmd: van side occluded
+lmd: van occluded
+lmd: van side
+lmd: van crop
+lmd: van rear
+lmd: van side crop
+lmd: minivan
+lmd: van frontal
+lmd: vanrear
+lmd: mail van
+lmd: van back
+lmd: van front
+lmd: big van
+lmd: camper van
+lmd: cargo van
+lmd: minivan with rear and side door open and a female sitting in back seat
+lmd: parked van
+lmd: silver van
+lmd: van  occluded
+lmd: van (side)
+lmd: van az0deg
+lmd: van az240deg
+lmd: van az30deg
+lmd: van left
+lmd: van rear occluded
+lmd: van rear side
+lmd: van right side
+lmd: van, automobile, vehicle, auto
+lmd: van, rearview
+lmd: van, vehicle, automobile occluded
+lmd: vehicle, automobile, van, auto
+lmd: yellow van
+TAG: roof
+lmd: roof
+lmd: roof (pagode)
+lmd: roof tiles
+lmd: tile roof
+lmd: building roof
+lmd: flat roof
+lmd: house roof
+lmd: plasticine roof
+lmd: roof occluded
+lmd: tiled roof
+TAG: bus
+lmd: bus
+lmd: bus occluded
+lmd: bus crop
+lmd: bus side
+lmd: bus back
+lmd: buses
+lmd: double decker bus
+lmd: a bus
+lmd: bus car occluded
+lmd: bus frontal
+lmd: bus passenger
+lmd: bus, sideview
+lmd: minibus
+lmd: occlusion bus
+lmd: two floor bus
+TAG: umbrella
+lmd: umbrella
+lmd: umbrella occluded
+lmd: umbrella crop
+lmd: umbrellas
+lmd: umbrella stand
+lmd: umbrella (sun)
+lmd: table umbrella
+lmd: umbrella top
+lmd: umbrella, sideview
+lmd: umbrellas occluded
+TAG: headlight
+lmd: headlight
+TAG: laptop
+lmd: laptop
+lmd: laptop az330deg
+lmd: laptop computer
+lmd: laptop crop
+lmd: laptop az240deg
+lmd: laptop az0deg
+lmd: laptop az270deg
+lmd: laptop az300deg
+lmd: laptop bag
+lmd: laptoppart
+TAG: faucet
+lmd: faucet
+lmd: faucet crop
+lmd: faucet handle
+lmd: faucet base
+lmd: faucet drain lever
+lmd: faucet occluded
+lmd: facet
+lmd: faucet spigot
+lmd: water tap
+lmd: tap
+lmd: sink faucet
+TAG: trash
+lmd: trash
+lmd: trash can
+lmd: trashwhole
+lmd: trashcan
+lmd: trash bin
+lmd: trash box
+lmd: trashbin
+lmd: trash container
+lmd: trash crop
+lmd: trash occluded
+lmd: trash receptacle
+lmd: dustbin wastepaper basket trashcan
+lmd: trash bag
+lmd: trash bins
+lmd: trash cans
+lmd: trash dumpster
+lmd: trash occluded crop
+lmd: trash whole
+lmd: trashcan, container
+lmd: trashcans
+lmd: trashpart
+lmd: recycling bin
+lmd: litter bin
+lmd: bin crop
+lmd: bin
+lmd: recycling bin occluded
+lmd: dustbin
+lmd: litter bin crop
+lmd: litter bin occluded
+lmd: garbage bin
+lmd: waste bin
+lmd: wastebin
+lmd: dust bin
+lmd: ashbin
+lmd: bin garbage
+lmd: bin occluded
+lmd: bin occcluded
+lmd: recyclingbin
+lmd: bins
+lmd: bins occluded
+lmd: letter bin
+lmd: lietter bin
+lmd: litter bine occluded
+lmd: recicling bin occluded
+lmd: recycling  bin occluded
+lmd: recycling bin crop
+lmd: recycling bins
+lmd: garbage can
+lmd: garbage
+lmd: garbage container
+lmd: garbage bin
+lmd: dumpster, garbage
+lmd: garbage, dumpster
+lmd: bin garbage
+lmd: garbage barrell
+lmd: garbage basket
+lmd: garbage can with wheels
+lmd: garbage dump
+lmd: garbage pail
+TAG: bowl
+lmd: bowl
+lmd: bowl of fruit
+lmd: fruit bowl
+lmd: bowls
+lmd: decorative bowl
+lmd: stack of bowls
+lmd: bowl of apples
+lmd: bowl of food
+lmd: metal bowl
+lmd: bowl *x
+lmd: soup bowl
+lmd: soupl bowl
+lmd: sugar bowl
+lmd: bowl of cookies
+lmd: bowl of peaches *fruit
+lmd: bowl of sugars
+lmd: bowl of vegtables
+lmd: plastic bowl
+lmd: wood bowl
+lmd: wooden bowl
+lmd: applebowl
+lmd: bowl of apples *fruit
+lmd: bowl of bread
+lmd: bowl of cherries
+lmd: bowl of garlic
+lmd: bowl of potatoes
+lmd: bowl of towels
+lmd: bowl of vegetables
+lmd: bowl of vegitables
+lmd: bowl of yarn
+lmd: bowl with candle
+lmd: bowl with diced vegis
+lmd: ceramic bowl
+lmd: coconuts in bowl
+lmd: decorative bowls
+lmd: decortive bowl
+lmd: kiwi fruit in bowl
+lmd: lid of bowl *x
+lmd: marble bowl
+lmd: mixing bowl
+lmd: small metal bowl
+lmd: small metal bowls
+lmd: stone bowl
+TAG: cloud
+lmd: cloud
+lmd: clouds
+lmd: fluffy cloud
+lmd: cloud formation
+lmd: cloud in sky
+lmd: cloudmass
+lmd: clouds at sunset
+lmd: clouds, white
+lmd: distantcloud
+TAG: chimney
+lmd: chimney
+lmd: chimney crop
+TAG: stove
+lmd: stove
+lmd: stove occluded
+lmd: stove crop
+lmd: stove top
+lmd: stovetop
+lmd: stove hood
+lmd: gas stove
+lmd: occluded stove oven
+lmd: stove light
+lmd: stove range
+lmd: stove/oven
+lmd: oven
+lmd: microwave oven
+lmd: microwave
+lmd: microwave occluded
+lmd: microwave crop
+lmd: microwave part
+lmd: oven occluded
+lmd: oven crop
+lmd: oven range
+lmd: ovens
+lmd: dual oven
+lmd: mini oven
+lmd: occluded stove oven
+lmd: oven hood
+lmd: oven range hood *x
+TAG: cpu
+lmd: cpu
+lmd: cpu occluded
+lmd: cpu crop
+lmd: cpupart
+lmd: cpu crop occluded
+lmd: cpu occluded crop
+lmd: cpupartial
+lmd: cputower
+lmd: cputowers
+lmd: dell cpu
+lmd: computer
+lmd: computer tower
+lmd: computer crop
+lmd: computerfrontal
+lmd: computer (desktop)
+lmd: computer case
+lmd: computer hardware
+TAG: sculpture
+lmd: sculpture
+lmd: sculpture crop
+lmd: sculpture *x
+lmd: sculpture occluded
+lmd: esculpture
+lmd: cow sculpture
+lmd: cowboy sculpture
+lmd: decorative sculpture
+lmd: sculpture of human figure
+lmd: sculptures
+lmd: small sculpture *x
+lmd: statue
+lmd: bear statue
+lmd: cow statue
+lmd: horse statue
+lmd: alien statue
+lmd: angel statue
+lmd: bronze statue
+lmd: bunny statue
+lmd: dragon statue
+lmd: lion statue
+lmd: samuel adams statue
+lmd: sphynx statue
+lmd: statue *x
+lmd: statue man
+lmd: statue occluded
+lmd: statue wire mesh
+lmd: stone statue
+TAG: bag
+lmd: bag
+lmd: handbag
+lmd: bags
+lmd: bean bag
+lmd: cofee bag
+lmd: paper bag
+lmd: backpack, bag
+lmd: backpack
+lmd: backpack occluded
+lmd: backpacks
+lmd: backpack rucksack
+lmd: plastic bag
+lmd: back bag
+lmd: bag of groceries
+lmd: bag, backpack
+lmd: blue bag
+lmd: hand bag
+lmd: hand bags
+lmd: plastic shopping bag
+lmd: sandbag
+lmd: shopping bag
+lmd: shopping bag_
+lmd: shoppting bag
+lmd: sleeping bag
+lmd: purse
+lmd: pink purse
+TAG: fork
+lmd: fork
+lmd: forks
+lmd: fork lift
+lmd: fork silverware
+lmd: fork spanner
+lmd: little fork silverware
+TAG: knife
+lmd: knife
+lmd: butter knife
+lmd: knives
+lmd: knifes
+lmd: cheese knife
+lmd: knife fish silverware
+lmd: knife silverware
+TAG: napkin
+lmd: napkin
+lmd: napkins
+lmd: paper napkin
+TAG: pen
+lmd: pen
+lmd: pens
+lmd: pencil
+lmd: highlighter pen
+lmd: pencils
+TAG: sun
+lmd: sun
+lmd: sunset
+lmd: setting sun
+lmd: sun glow
+lmd: sun occluded
+lmd: sun setting
+TAG: apple
+lmd: apple
+lmd: apples
+lmd: decorative apple
+TAG: plant
+lmd: shrub
+lmd: shrubs
+lmd: shrubbery
+lmd: shrub *x
+lmd: shrub cropped
+lmd: shrubs crop
+lmd: shrubs occluded
+lmd: bush
+lmd: bushes
+lmd: bush region green
+lmd: bush hedge occluded
+lmd: bush green
+lmd: bush hedge region
+lmd: bush_
+lmd: green bush
+lmd: rose bush
+lmd: roze bush
+lmd: hedge
+lmd: hedge partial
+TAG: blind
+lmd: blind
+lmd: blinds
+lmd: blind occluded
+lmd: mini blinds
+lmd: blind crop
+lmd: venetian blinds
+lmd: venetianblinds
+lmd: verticle blinds
+lmd: shutter
+lmd: metal shutters
+lmd: metal shutter
+lmd: shutters
+lmd: metal shutters occluded
+lmd: metal shutter occluded
+lmd: window shutter
+lmd: shutter crop
+lmd: metal shutter crop
+lmd: metal shutters crop
+lmd: window shutters
+TAG: pumpkin
+lmd: pumpkin
+lmd: stuffing pumpkin
+TAG: fish
+lmd: fish
+lmd: starfish
+lmd: fishing pole
+lmd: porcelain fish
+lmd: catfish
+lmd: fish tank
+lmd: mounted fish
+lmd: wooden fish
+TAG: air conditioning
+lmd: air conditioning
+lmd: air conditioning crop
+lmd: air conditioning occluded
+lmd: air conditioning 1
+lmd: air conditioning 2
+lmd: air conditioning 3
+lmd: air conditioning external unit
+lmd: air conditioning unit
+lmd: air-condition
+lmd: air-conditioner
+lmd: air-conditioning unit
+lmd: airconditioner
+lmd: airconditioning
+lmd: air conditioner
+lmd: air coditioning
+lmd: air conditining
+lmd: air condition
+TAG: candle
+lmd: candle
+lmd: candlestick
+lmd: candle in holder
+lmd: candle stick
+lmd: candle stick holder
+lmd: candle stick in holder
+lmd: candleholder
+lmd: candles
+lmd: candle on stand
+lmd: candle stick one of two
+lmd: candle stick two of two
+lmd: candle sticks
+lmd: candlestik
+lmd: reflection (candle)
+TAG: towel
+lmd: towel
+lmd: towels
+lmd: towel rail
+lmd: towel occluded
+lmd: hand towel
+lmd: kitchen towel
+lmd: beautifully folded towel
+lmd: dishtowel
+lmd: dishtowels
+lmd: paper towel
+lmd: paper towel holder
+lmd: teatowel
+lmd: towel crop
+lmd: towel rod
+lmd: towel, hand towel
+TAG: printer
+lmd: printer
+TAG: hand
+lmd: hand
+lmd: hand (occluded)
+lmd: hand and wrist
+lmd: hand showing three fingers
+lmd: hand skin region
+lmd: hands
+TAG: spoon
+lmd: spoon
+lmd: large wooden spoon
+lmd: spoon silverware
+lmd: spoons
+lmd: littele spoon silverware
+lmd: measuring spoons
+lmd: serving spoon
+lmd: spoon holder *x
+lmd: spoon occluded
+lmd: teaspoon
+TAG: outlet
+lmd: outlet
+lmd: electrical outlet
+lmd: wall outlet
+lmd: plug outlet
+lmd: electrial outlet
+lmd: electric outlet
+lmd: poweroutlet
+TAG: tower
+lmd: tower
+lmd: tower occluded
+lmd: bell tower
+lmd: water tower
+lmd: control tower
+lmd: clocktower
+lmd: antenna tower
+lmd: church tower
+lmd: church, tower
+lmd: church steeple
+lmd: command tower
+lmd: tower crop
+TAG: cat
+lmd: cat
+lmd: cats
+lmd: cat animal
+TAG: dishwasher
+lmd: dishwasher
+lmd: dishwasher crop
+lmd: dishwasher occluded
+lmd: undersounter dishwasher
+TAG: orange
+lmd: orange
+lmd: oranges
+lmd: orange occluded
+TAG: fridge
+lmd: fridge
+lmd: fridge occluded
+lmd: fridge crop
+lmd: refridgerator
+lmd: fridgerator
+lmd: refrigerator
+lmd: refrigator
+lmd: wine refrigerator
+lmd: freezer
+TAG: airplane
+lmd: airplane
+lmd: airplane occluded
+lmd: airplane crop
+lmd: plane
+lmd: plane occluded
+lmd: plane crop
+lmd: aeroplane occluded
+lmd: aeroplane occulded
+lmd: areoplane occluded
+TAG: church
+lmd: church
+lmd: church occluded
+lmd: roccoco church facade
+TAG: duck
+lmd: duck
+lmd: duckling
+TAG: monkey
+lmd: monkey
+lmd: monkey occluded
+lmd: monkey, animal
+lmd: monkey crop
+lmd: monkeys
+TAG: cow
+lmd: cow
+lmd: cow left far grassland
+lmd: cow left near grassland
+lmd: cow on wheels
+lmd: cow other mid grassland
+lmd: cow right mid grassland
+lmd: cows
+TAG: seagull
+lmd: seagull
+TAG: camera
+lmd: camera
+lmd: security camera
+lmd: surveillance camera
+lmd: survelance camera
+lmd: cctv, camera
+lmd: surveillance camera big brother
+lmd: survelence camera
+lmd: television camera
+lmd: video camera
+lmd: video surveillance camera
+TAG: crane
+lmd: crane
+lmd: crane occluded
+lmd: crane crop
+lmd: construction crane
+TAG: shoe
+lmd: shoe
+lmd: shoes
+lmd: high heel shoe
+lmd: lady's shoe
+lmd: sensible shoes
+lmd: shoe display
+lmd: shoe occluded
+TAG: hat
+lmd: hat
+lmd: hat occluded
+lmd: hats
+TAG: stool
+lmd: stool
+lmd: bar stool
+lmd: stool crop
+lmd: stool occluded
+TAG: butterfly
+lmd: butterfly
+TAG: podium
+lmd: podium
+lmd: lecturn podium
+TAG: cd
+lmd: cd
+lmd: cds
+lmd: cd case
+lmd: cd cases
+lmd: cd crop
+lmd: cd-rom
+lmd: cdstack
+lmd: pile of cds
+TAG: squirrel
+lmd: squirrel
+lmd: animal squirrel
+lmd: squirrel animal mammal
+lmd: a squirrel
+TAG: stapler
+lmd: stapler
+TAG: cone
+lmd: cone
+lmd: traffic cone
+lmd: traffic cones
+lmd: cone generalized cylinder
+lmd: cones
+lmd: construction cone
+TAG: zebra
+lmd: zebra
+lmd: zebra front mid savanna
+lmd: zebra occluded
+lmd: zebra other mid savanna
+lmd: zebra right mid savanna
+lmd: zebra left mid savanna
+lmd: zebra crop
+lmd: zebras
+lmd: zebra rear mid savanna
+lmd: zebra right mid forest
+TAG: pear
+lmd: pear
+lmd: pears
+TAG: socket
+lmd: socket
+lmd: light socket
+lmd: power socket
+lmd: socket occluded
+TAG: magazine
+lmd: magazine
+lmd: magazines
+lmd: magazines in clear case
+lmd: magazine rack
+lmd: magazine occluded
+lmd: ieee spectrum magazine
+lmd: magazines in case
+lmd: magazines occluded
+lmd: stack of magazine
+lmd: stack of magazines
+TAG: elephant
+lmd: elephant
+lmd: elephant front mid savanna
+lmd: elephant left mid savanna
+lmd: elephant other mid savanna
+lmd: baby elephant
+lmd: baby elephant occluded
+lmd: elephant front far savanna
+lmd: elephant left far savanna
+lmd: elephant left mid forest
+lmd: elephant left near savanna
+lmd: elephant occluded
+lmd: elephant other far savanna
+lmd: elephant rear far savanna
+TAG: can
+lmd: can
+lmd: can coke
+lmd: silver canister
+lmd: spray can
+lmd: tin can
+TAG: ground
+lmd: ground
+lmd: desert ground
+lmd: snow covered ground
+lmd: rocky ground
+lmd: deser ground
+lmd: ground snow-covered
+lmd: snowy ground
+lmd: arid ground
+lmd: ground (concrete)
+TAG: coffeemachine
+lmd: coffee marker
+lmd: coffeemachinewhole
+lmd: coffeemachine
+lmd: coffee machine
+lmd: coffee marker occluded
+lmd: coffee-marker
+lmd: coffeemaker
+lmd: coffee machine whole
+lmd: coffee maker
+lmd: coffeemachinepart
+TAG: arrow
+lmd: arrow
+lmd: left arrow
+lmd: street arrow
+TAG: deer
+lmd: deer
+lmd: deer right mid forest
+lmd: deer right mid grassland
+lmd: deer left mid grassland
+lmd: deer left mid forest
+lmd: deer front mid grassland
+lmd: deer left mid savanna
+lmd: deer other mid savanna
+lmd: deer front mid forest
+lmd: deer left mid mountain
+lmd: deer left mid water
+lmd: deer left near forest
+lmd: deer other far grassland
+lmd: deer right far other
+lmd: deer right far water
+lmd: deer right mid savanna
+lmd: deer right mid water
+TAG: horse
+lmd: horse
+lmd: horse left mid grassland
+lmd: horse front far grassland
+lmd: horse right far grassland
+TAG: giraffe
+lmd: giraffe
+lmd: giraffe left far savanna
+lmd: giraffe left mid savanna
+lmd: giraffe rear far savanna
+lmd: giraffe other mid savanna
+lmd: giraffe front mid savanna
+lmd: giraffe right mid savanna
+lmd: giraffe back far savanna
+lmd: giraffe front mid desert
+lmd: giraffe other far savanna
+TAG: notebook
+lmd: notebook
+lmd: notebooks
+lmd: notebook calendar
+TAG: bread
+lmd: bread
+lmd: slice of bread
+lmd: bread bagels
+lmd: sliced bread
+lmd: loaf of bread
+lmd: piece of bread
+lmd: french bread
+lmd: platter of bread
+TAG: hair
+lmd: hair
+lmd: bushy hair
+lmd: outdated highschool rebel hair style
+lmd: red hair
+TAG: dryier
+lmd: hair dryier
+lmd: hairdryer
+TAG: guitar
+lmd: guitar
+lmd: guitar crop
+TAG: toilet
+lmd: toilet
+lmd: toilet seat cover
+lmd: toilet seat cover occluded
+lmd: toilet, water closet, w. c. pan
+lmd: toilette
+lmd: wc
+lmd: wc crop
+lmd: wc occluded
+TAG: microphone
+lmd: microphone
+lmd: microphone with windscreen
+lmd: boom microphone
+TAG: cloth
+lmd: clothes
+lmd: cloth
+lmd: clothing
+lmd: pile of clothes
+lmd: runner cloth
+TAG: mill
+lmd: mill
+lmd: mill occluded
+lmd: millpond
+TAG: windshield
+lmd: windshield
+TAG: pipe
+lmd: pipe
+lmd: drain pipe
+lmd: drainpipe
+lmd: hidrant pipes
+lmd: pipes
+lmd: rain water pipe
+lmd: rainpipe
+lmd: tail pipe
+TAG: booth
+lmd: telephone booth
+lmd: booth
+lmd: telephone booth occluded
+lmd: phone booth
+lmd: telephone  booth
+TAG: arm
+lmd: arm
+lmd: arm occluded
+lmd: arm region
+lmd: arm, finger
+TAG: fireplace
+lmd: fireplace
+lmd: fireplace occluded
+lmd: fireplace mantle
+lmd: fireplace screen
+TAG: fountain
+lmd: fountain
+lmd: fountain occluded
+lmd: water fountain
+lmd: drinking fountain
+lmd: fountain crop
+TAG: toilet paper
+lmd: toilet paper
+lmd: roll of toilet paper
+lmd: toilet paper dispenser
+lmd: toilet paper roll
+TAG: sheep
+lmd: sheep
+lmd: sheep animal
+lmd: sheep left mid grassland
+lmd: sheep part
+lmd: sheeps
+TAG: chandelier
+lmd: chandelier
+TAG: ladder
+lmd: ladder
+lmd: ladder crop
+lmd: swimming ladder
+TAG: seal
+lmd: seal
+lmd: sealion
+lmd: seal occluded
+lmd: animal seal
+lmd: baby seal
+lmd: seal pup
+TAG: chain
+lmd: chain
+lmd: chain link fence
+lmd: chain link fence shadow
+TAG: ear
+lmd: ear
+lmd: cat ear
+lmd: lion ear
+lmd: elephant ear
+lmd: right ear
+lmd: hippo ear
+lmd: left ear
+lmd: leopard left ear
+lmd: leopard right ear
+lmd: squirrel ear
+TAG: closet
+lmd: closet
+lmd: closet crop
+lmd: closet occluded
+TAG: dock
+lmd: dock
+TAG: teapot
+lmd: teapot
+lmd: metal teapot
+lmd: tea pot
+lmd: tea kettle
+TAG: fan
+lmd: fan
+lmd: ceiling fan
+lmd: fan crop
+lmd: fan occluded
+lmd: fan, ventilator
+TAG: soap
+lmd: soap
+lmd: dish soap
+lmd: soap bar
+lmd: bar of soap
+lmd: dishsoap
+lmd: dishwashing soap
+lmd: soap disk
+TAG: lizard
+lmd: lizard
+lmd: lizard right near desert
+lmd: lizard left near desert
+lmd: lizard right near mountain
+lmd: lizard right mid desert
+lmd: lizard right near forest
+lmd: lizard top near mountain
+lmd: baby lizard
+lmd: lizard front near forest
+lmd: lizard left near forest
+lmd: lizard left near mountain
+lmd: lizard right mid forest
+lmd: lizard top mid desert
+lmd: lizard top near forest
+lmd: lizards
+TAG: toaster
+lmd: toaster
+TAG: goat
+lmd: goat
+lmd: goat left mid mountain
+lmd: goat right mid mountain
+lmd: goat front mid mountain
+lmd: goat front far mountain
+lmd: goat kid
+lmd: goat left near forest
+lmd: goat left near mountain
+lmd: goat right mid forest
+lmd: goat right near mountain
+TAG: lion
+lmd: lion
+lmd: animal lion cub
+lmd: lion left mid savanna
+lmd: lion right mid grassland
+lmd: animal lion lioness
+lmd: baby lion
+lmd: lion front mid mountain
+lmd: lion other mid savanna
+lmd: lion right mid savanna
+lmd: lioness
+lmd: animal lion
+lmd: animal lion linoness
+lmd: animal lion lioness occluded
+lmd: antlion
+lmd: lion face
+lmd: lion front far savanna
+lmd: lion front mid grassland
+lmd: lion front mid savanna
+lmd: lion front near mountain
+lmd: lion left far grassland
+lmd: lion left mid mountain
+lmd: lion other near forest
+lmd: lion rear mid savanna
+lmd: lion right mid mountain
+lmd: lion right mid water
+lmd: lion right near grassland
+lmd: lion right near mountain
+lmd: lioness crop
+lmd: lioness occluded
+lmd: lions
+TAG: newspaper
+lmd: newspaper
+lmd: newspapers
+lmd: newspaper racks
+lmd: pile newspapers
+TAG: store
+lmd: store
+lmd: store marqui
+lmd: storefront
+lmd: boutique store
+lmd: mexican store
+lmd: store display
+lmd: store marquei
+TAG: lake
+lmd: lake water running inland
+lmd: lake, water
+lmd: water pond
+lmd: pond water
+lmd: water lake
+TAG: waterfall
+lmd: waterfall
+lmd: water fall
+TAG: tail light
+lmd: tail light
+lmd: driver side tail light
+lmd: tail light (left) (vw golf)
+lmd: tail light (right) (vw golf)
+lmd: tail light crop
+lmd: light, lamp, tail light
+TAG: leaf
+lmd: leaf
+lmd: leaf occluded
+lmd: leaf crop
+lmd: leaf cropped
+lmd: leafs
+lmd: palm leaf
+lmd: floating leaf
+lmd: green leaf with black spots
+lmd: leaf f
+lmd: palm leafs
+lmd: leaf on the ground
+TAG: central reservation
+lmd: central reservation
+TAG: drawer
+lmd: drawer
+lmd: drawers
+lmd: chest of drawers
+lmd: chest of drawers occluded
+lmd: drawers occluded
+lmd: chest of drawers crop
+lmd: drawers crop
+lmd: dresser drawer
+lmd: chest-of-drawers
+lmd: closed drawer with handle
+lmd: drawer chest
+lmd: drawer pull
+lmd: drawers empty
+lmd: filing drawer
+lmd: kitchen drawers
+lmd: middle drawer
+lmd: missing drawer *x
+lmd: open drawer
+lmd: rolling file drawers
+lmd: top drawer
+lmd: upper drawer
+TAG: brand name
+lmd: brand name
+lmd: brand name crop
+lmd: brand name occluded
+TAG: curb
+lmd: curb
+lmd: double curb
+lmd: curb2
+lmd: curbstone
+TAG: jar
+lmd: jar
+lmd: jars
+lmd: jar of utensils
+lmd: jelly jar
+lmd: a glass jar filled with distilled fetus blood
+lmd: bird-shaped jar
+lmd: ceramic jar
+lmd: cookie jar
+lmd: jar (_)
+lmd: jar *x
+lmd: jar filled with pasta
+lmd: jar of beans
+lmd: jar of cooking utensils
+lmd: jar of cotton balls
+lmd: jar of pens
+lmd: jar of pinecones
+lmd: jar of tea
+lmd: jar of utincils
+lmd: jar soap
+lmd: jarron
+lmd: metal jar *x
+lmd: oil jar
+lmd: pasta jar
+lmd: porcelin jar
+lmd: spice jar
+lmd: sugar jar
+lmd: vinegar jar
+TAG: tile
+lmd: tile
+lmd: kitchen tile
+lmd: floor tile
+lmd: wall tile
+lmd: ceramic tile
+lmd: tiles
+lmd: glazed tile
+lmd: blue tile
+lmd: ceiling tile
+lmd: terra cotta floor tile
+lmd: white tile
+lmd: bathroom  tiles
+lmd: decorative tile
+lmd: decorative tiles
+lmd: roof tile
+lmd: shower tile
+lmd: tile mosaic
+lmd: tile wall
+lmd: tile.
+lmd: wall tiles
+TAG: pitcher
+lmd: pitcher
+lmd: hanging pitcher
+lmd: pitcher *x
+lmd: water pitcher
+TAG: snow
+lmd: snow
+lmd: snow covered plain
+lmd: snow covered
+lmd: snow covered valley
+lmd: pile of snow
+lmd: snow covered branch
+lmd: snow covered railing
+lmd: snow land
+lmd: snowflake
+lmd: snowflake decoration in profile
+lmd: snowy plain
+TAG: mailbox
+lmd: mailbox
+lmd: mailbox occluded
+lmd: mailboxes
+TAG: tray
+lmd: tray
+lmd: food serving tray
+lmd: tray crop
+lmd: tray occluded
+lmd: tray of grapes
+lmd: tray table
+lmd: tray with supplies
+lmd: trays
+TAG: toy
+lmd: toy
+lmd: toys
+lmd: cuddly toy
+lmd: toy car
+lmd: toy house
+lmd: hanging toy
+lmd: soft toy
+lmd: soft toys
+lmd: suffed toy
+lmd: toy horse
+lmd: toy shop
+lmd: toy train
+lmd: toy truck
+lmd: toy*x
+TAG: bathtub
+lmd: bathtub
+lmd: bathtube
+lmd: bathtub
+lmd: bath occluded
+lmd: bath
+lmd: bath tub
+lmd: bath crop
+lmd: bathtube
+TAG: dresser
+lmd: dresser
+lmd: night stand dresser
+lmd: dresser drawer
+lmd: cabinet dresser
+lmd: dresser top
+TAG: toothbrush
+lmd: toothbrush
+lmd: electric toothbrush
+TAG: airport cart
+lmd: airport cart
+lmd: airport cart occluded
+lmd: airport cart crop

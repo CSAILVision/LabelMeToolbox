@@ -1,0 +1,1479 @@
+TAG: acropolis
+lmd: acropolis
+TAG: aerial
+lmd: aerial
+TAG: air conditioning
+lmd: air conditioning
+TAG: air vent
+lmd: air vent
+TAG: aircraft
+lmd: aircraft
+TAG: aircraft carrier
+lmd: aircraft carrier
+TAG: airplane
+lmd: airplane
+TAG: airport cart
+lmd: airport cart
+TAG: alarm clock
+lmd: alarm clock
+TAG: altar
+lmd: altar
+TAG: altarpiece
+lmd: altarpiece
+TAG: animal
+lmd: animal
+TAG: apple
+lmd: apple
+TAG: apples
+lmd: apples
+TAG: arcade
+lmd: arcade
+lmd: archs
+lmd: aqueduct
+TAG: arch
+lmd: arch
+TAG: armchair
+lmd: armchair
+TAG: ashtray
+lmd: ashtray
+TAG: attic
+lmd: attic
+TAG: awning
+lmd: awning
+TAG: backpack
+lmd: backpack
+TAG: badge
+lmd: badge
+TAG: bag
+lmd: bag
+lmd: purse
+TAG: baggage cart
+lmd: baggage cart
+TAG: bags
+lmd: bags
+TAG: balcony
+lmd: balcony
+TAG: ball
+lmd: ball
+TAG: balloon
+lmd: balloon
+TAG: balls
+lmd: balls
+TAG: balustrade
+lmd: balustrade
+TAG: bandstand
+lmd: bandstand
+TAG: baptismal font
+lmd: baptismal font
+TAG: bar
+lmd: bar
+TAG: barbecue
+lmd: barbecue
+TAG: barrel
+lmd: barrel
+TAG: barrels
+lmd: barrels
+TAG: bars
+lmd: bars
+lmd: bars door
+lmd: bars wall
+lmd: grille
+lmd: grille door
+TAG: basket
+lmd: basket
+TAG: bathtub
+lmd: bathtub
+lmd: jacuzzi
+TAG: beam
+lmd: beam
+TAG: bed
+lmd: bed
+lmd: berth
+TAG: bunk bed
+lmd: bunk bed
+TAG: beer machine
+lmd: beer machine
+TAG: bell
+lmd: bell
+TAG: bench
+lmd: bench
+TAG: benches
+lmd: benches
+TAG: bicycle
+lmd: bicycle
+TAG: bidet
+lmd: bidet
+TAG: billboard
+lmd: billboard
+TAG: billiard table
+lmd: billiard table
+TAG: bin
+lmd: bin
+TAG: binders
+lmd: binders
+TAG: bird
+lmd: bird
+lmd: seagull
+TAG: blackboard
+lmd: blackboard
+TAG: blanket
+lmd: blanket
+TAG: bleachers
+lmd: bleachers
+TAG: blender
+lmd: blender
+TAG: boat
+lmd: boat
+lmd: pedal boat
+lmd: sailing boat
+lmd: sailboat
+lmd: sail boat
+lmd: ship
+TAG: book
+lmd: book
+lmd: phone book
+TAG: bookcase
+lmd: bookcase
+lmd: book stand
+TAG: books
+lmd: books
+lmd: books on shelf
+TAG: bottle
+lmd: bottle
+lmd: water bottle
+lmd: wine bottle
+lmd: perfume bottle
+TAG: bottles
+lmd: bottles
+TAG: bowl
+lmd: bowl
+lmd: fruit bowl
+lmd: bowl of fruit
+TAG: bowling alley
+lmd: bowling alley
+TAG: bowling pins
+lmd: bowling pins
+TAG: box
+lmd: box
+TAG: boxes
+lmd: boxes
+TAG: brand name
+lmd: brand name
+TAG: bread
+lmd: bread
+lmd: french bread
+lmd: frenchbread
+lmd: bread roll
+lmd: bread rolls
+lmd: loaf
+lmd: loafs
+lmd: sandwich
+TAG: brick
+lmd: brick
+TAG: bridge
+lmd: bridge
+TAG: broom
+lmd: broom
+TAG: brush
+lmd: brush
+TAG: bucket
+lmd: bucket
+TAG: building
+lmd: building
+lmd: buildings
+lmd: church
+lmd: temple
+lmd: skyscraper
+lmd: house
+lmd: houses
+lmd: hut
+lmd: huts
+lmd: ruins
+lmd: ruins building
+lmd: ruins buildings
+lmd: shanty
+lmd: shanties
+lmd: shed
+lmd: shelter
+TAG: bulb
+lmd: bulb
+TAG: bulldozer
+lmd: bulldozer
+TAG: bulletin board
+lmd: bulletin board
+lmd: board
+TAG: boards
+lmd: boards
+TAG: burner
+lmd: burner
+TAG: bus
+lmd: bus
+lmd: bus side
+TAG: cabin
+lmd: cabin
+TAG: cabinet
+lmd: cabinet
+lmd: cabinet door
+lmd: cabinets
+TAG: caboard
+lmd: caboard
+TAG: cactus
+lmd: cactus
+TAG: cake
+lmd: cake
+TAG: cakes
+lmd: cakes
+TAG: calendar
+lmd: calendar
+TAG: camera
+lmd: camera
+TAG: can
+lmd: can
+lmd: tin
+TAG: tins
+lmd: tins
+TAG: candies
+lmd: candies
+TAG: candle
+lmd: candle
+lmd: candles
+lmd: candelabra
+TAG: canister
+lmd: canister
+TAG: canopy
+lmd: canopy
+TAG: cans
+lmd: cans
+TAG: car
+lmd: car
+lmd: car front
+lmd: car rear
+lmd: car side
+lmd: car taxi
+TAG: caravan
+lmd: caravan
+TAG: card
+lmd: card
+TAG: cards
+lmd: cards
+TAG: cars
+lmd: cars
+lmd: cars side
+TAG: cart
+lmd: cart
+TAG: cash register
+lmd: cash register
+TAG: castle
+lmd: castle
+TAG: cellphone
+lmd: cellphone
+lmd: cell phone
+TAG: ceiling
+lmd: ceiling
+TAG: ceiling lamp
+lmd: ceiling lamp
+TAG: ceiling lamps
+lmd: ceiling lamps
+TAG: central reservation
+lmd: central reservation
+TAG: chair
+lmd: chair
+lmd: seat
+TAG: chair crop
+lmd: back of chair
+lmd: chair back
+lmd: chair top
+TAG: chairs
+lmd: chairs
+TAG: chandelier
+lmd: chandelier
+lmd: chandeliers
+TAG: check-in-desk
+lmd: check-in-desk
+TAG: cheese
+lmd: cheese
+TAG: chest
+lmd: chest
+TAG: chest of drawers
+lmd: chest of drawers
+TAG: chicken
+lmd: chicken
+TAG: child sitting
+lmd: child sitting
+TAG: chimney
+lmd: chimney
+TAG: chip
+lmd: chip
+TAG: chips
+lmd: chips
+TAG: cistern
+lmd: cistern
+TAG: city
+lmd: city
+TAG: cliff
+lmd: cliff
+lmd: cliffs
+lmd: cliff and waterfall
+TAG: clock
+lmd: clock
+TAG: closet
+lmd: closet
+TAG: cloth
+lmd: cloth
+TAG: clothes
+lmd: clothes
+lmd: clothing
+TAG: clothes hook
+lmd: clothes hook
+TAG: cloud
+lmd: cloud
+TAG: clouds
+lmd: clouds
+TAG: coffee cup
+lmd: coffee cup
+TAG: coffee maker
+lmd: coffee maker
+lmd: coffeemaker
+lmd: cofeemaker
+TAG: coffee table
+lmd: coffee table
+lmd: coffeetable
+TAG: column
+lmd: column
+lmd: pillar
+TAG: columns
+lmd: columns
+TAG: conference table
+lmd: conference table
+TAG: console table
+lmd: console table
+TAG: control tower
+lmd: control tower
+TAG: conveyor belt
+lmd: conveyor belt
+TAG: cookie
+lmd: cookie
+TAG: cookies
+lmd: cookies
+TAG: counter
+lmd: counter
+lmd: open plan
+TAG: countertop
+lmd: countertop
+TAG: court
+lmd: court
+TAG: covered balcony
+lmd: covered balcony
+TAG: cow
+lmd: cow
+TAG: cows
+lmd: cows
+TAG: cpu
+lmd: cpu
+TAG: cradle
+lmd: cradle
+TAG: crane
+lmd: crane
+TAG: crate
+lmd: crate
+TAG: cross
+lmd: cross
+TAG: crosswalk
+lmd: crosswalk
+TAG: cubicle
+lmd: cubicle
+TAG: cuddly toy
+lmd: cuddly toy
+TAG: cue
+lmd: cue
+TAG: cup
+lmd: cup
+TAG: cupboard
+lmd: cupboard
+lmd: cupboards
+TAG: cups
+lmd: cups
+TAG: curb
+lmd: curb
+TAG: curtain
+lmd: curtain
+lmd: curtains
+TAG: cushion
+lmd: cushion
+TAG: cutlery
+lmd: cutlery
+TAG: cutting board
+lmd: cutting board
+TAG: deck
+lmd: deck
+TAG: deck chair
+lmd: deck chair
+TAG: decoration
+lmd: decoration
+TAG: decorative box
+lmd: decorative box
+TAG: desk
+lmd: desk
+TAG: desk lamp
+lmd: desk lamp
+lmd: table lamp
+TAG: desks
+lmd: desks
+TAG: dirt track
+lmd: dirt track
+TAG: dish
+lmd: dish
+TAG: dish rack
+lmd: dish rack
+TAG: dishes
+lmd: dishes
+TAG: dishwasher
+lmd: dishwasher
+TAG: display
+lmd: display
+TAG: display case
+lmd: display case
+lmd: china cabinet
+lmd: display stand
+TAG: dock
+lmd: dock
+lmd: quay
+TAG: dog
+lmd: dog
+TAG: doll
+lmd: doll
+TAG: dome
+lmd: dome
+TAG: door
+lmd: door
+lmd: glass door
+TAG: door frame
+lmd: door frame
+lmd: doorway
+TAG: door knob
+lmd: door knob
+lmd: door handle
+TAG: double door
+lmd: double door
+lmd: doors
+TAG: drain
+lmd: drain
+TAG: drawer
+lmd: drawer
+TAG: drawers
+lmd: drawers
+TAG: dress
+lmd: dress
+TAG: dresser
+lmd: dresser
+TAG: dummy
+lmd: dummy
+TAG: ear
+lmd: ear
+TAG: easel
+lmd: easel
+TAG: elephant
+lmd: elephant
+TAG: elevator
+lmd: elevator
+TAG: elevator door
+lmd: elevator door
+TAG: embankment
+lmd: embankment
+TAG: embrasure
+lmd: embrasure
+TAG: entrance
+lmd: entrance
+TAG: equipment
+lmd: equipment
+TAG: escalator
+lmd: escalator
+TAG: exercise machine
+lmd: exercise machine
+TAG: exit sign
+lmd: exit sign
+TAG: extractor hood
+lmd: extractor hood
+TAG: fan
+lmd: fan
+TAG: faucet
+lmd: faucet
+lmd: bath faucet
+lmd: sink faucet
+TAG: fence
+lmd: fence
+TAG: field
+lmd: field
+lmd: wheat field
+lmd: field grass
+lmd: field desert
+lmd: field flowers
+lmd: sunflowers field
+lmd: sunflower field
+lmd: plain
+lmd: savanna
+TAG: file cabinet
+lmd: file cabinet
+TAG: files
+lmd: files
+TAG: finger
+lmd: finger
+TAG: fire extinguisher
+lmd: fire extinguisher
+TAG: fireplace
+lmd: fireplace
+TAG: fish
+lmd: fish
+TAG: flag
+lmd: flag
+TAG: floe
+lmd: floe
+TAG: floor
+lmd: floor
+TAG: floor lamp
+lmd: floor lamp
+lmd: floorlamp
+TAG: floor tile
+lmd: floor tile
+TAG: flowers
+lmd: flowers
+lmd: flower
+lmd: flowers clump
+lmd: flowers in pot
+lmd: flowers in vase
+lmd: bouquet
+TAG: fluorescent tube
+lmd: fluorescent tube
+TAG: fluorescent tubes
+lmd: fluorescent tubes
+TAG: fog bank
+lmd: fog bank
+TAG: folders
+lmd: folders
+TAG: folding door
+lmd: folding door
+TAG: food
+lmd: food
+TAG: footbridge
+lmd: footbridge
+TAG: forecourt
+lmd: forecourt
+TAG: fork
+lmd: fork
+TAG: forklift
+lmd: forklift
+TAG: fountain
+lmd: fountain
+TAG: frame
+lmd: frame
+TAG: fridge
+lmd: fridge
+TAG: fruits
+lmd: fruit
+lmd: fruits
+lmd: fruits plate
+lmd: fruit bowl
+TAG: furniture
+lmd: furniture
+TAG: garage door
+lmd: garage door
+TAG: garden
+lmd: garden
+TAG: gas pump
+lmd: gas pump
+TAG: gate
+lmd: gate
+TAG: gates
+lmd: gates
+TAG: girl
+lmd: girl
+TAG: glass
+lmd: glass
+lmd: wine glass
+TAG: glass ceiling
+lmd: glass ceiling
+TAG: glass wall
+lmd: glass wall
+TAG: glasses
+lmd: glasses
+TAG: goal
+lmd: goal
+TAG: grandstand
+lmd: grandstand
+TAG: grapes
+lmd: grapes
+TAG: grass
+lmd: grass
+TAG: greenhouse
+lmd: greenhouse
+TAG: grille
+lmd: grille
+TAG: grille door
+lmd: grille door
+TAG: ground
+lmd: ground
+TAG: guitar
+lmd: guitar
+lmd: electric guitar
+TAG: hairdryer
+lmd: hairdryer
+TAG: hand trolley
+lmd: hand trolley
+TAG: handle
+lmd: handle
+TAG: handrail
+lmd: handrail
+TAG: hanger
+lmd: hanger
+lmd: hangers
+TAG: hat
+lmd: hat
+lmd: cap
+lmd: peaked cap
+TAG: hay roll
+lmd: hay roll
+lmd: bale
+lmd: hay bale
+TAG: headboard
+lmd: headboard
+TAG: headstone
+lmd: headstone
+lmd: head stone
+TAG: headstones
+lmd: headstones
+TAG: heater
+lmd: heater
+TAG: hen
+lmd: hen
+TAG: hook
+lmd: hook
+TAG: horse
+lmd: horse
+TAG: hose
+lmd: hose
+TAG: hung out
+lmd: hung out
+TAG: ice
+lmd: ice
+TAG: ice rink
+lmd: ice rink
+TAG: ice shelf
+lmd: ice shelf
+TAG: iceberg
+lmd: iceberg
+TAG: ingots
+lmd: ingots
+TAG: island
+lmd: island
+TAG: jacket
+lmd: jacket
+TAG: jackets
+lmd: jackets
+TAG: jar
+lmd: jar
+TAG: jars
+lmd: jars
+TAG: jug
+lmd: jug
+TAG: kettle
+lmd: kettle
+TAG: keyboard
+lmd: keyboard
+TAG: knife
+lmd: knife
+TAG: knives
+lmd: knives
+TAG: knob
+lmd: knob
+TAG: ladder
+lmd: ladder
+TAG: lady
+lmd: lady
+TAG: lake
+lmd: lake
+TAG: lamp
+lmd: lamp
+TAG: land
+lmd: land
+TAG: laptop
+lmd: laptop
+TAG: large window
+lmd: large window
+TAG: lava
+lmd: lava
+TAG: lawn
+lmd: lawn
+TAG: leaf
+lmd: leaf
+TAG: leaves
+lmd: leaves
+TAG: ledge
+lmd: ledge
+TAG: license plate
+lmd: license plate
+TAG: lighthouse
+lmd: lighthouse
+TAG: litter bin
+lmd: litter bin
+TAG: lockers
+lmd: lockers
+TAG: machine
+lmd: machine
+TAG: machinery
+lmd: machinery
+TAG: magazine
+lmd: magazine
+TAG: magazines
+lmd: magazines
+TAG: manhole cover
+lmd: manhole cover
+TAG: map
+lmd: map
+TAG: margarine
+lmd: margarine
+TAG: mast
+lmd: mast
+TAG: material rolls
+lmd: material rolls
+TAG: meat
+lmd: meat
+lmd: meat piece
+lmd: cold meat
+lmd: ham
+TAG: medicines
+lmd: medicines
+TAG: merchandise
+lmd: merchandise
+TAG: metal shutter
+lmd: metal shutter
+TAG: mezzanine
+lmd: mezzanine
+TAG: microphone
+lmd: microphone
+TAG: microwave
+lmd: microwave
+lmd: microwave oven
+TAG: mirror
+lmd: mirror
+TAG: molding
+lmd: molding
+TAG: monitor
+lmd: monitor
+TAG: monkey
+lmd: monkey
+TAG: moss
+lmd: moss
+TAG: motorbike
+lmd: motorbike
+TAG: mountain
+lmd: mountain
+lmd: mountain pass
+lmd: mountains
+lmd: rocky mountain
+lmd: snowy mountain
+lmd: volcano
+lmd: hill
+lmd: hill urban
+lmd: hills
+TAG: mountain pass
+lmd: mountain pass
+TAG: mouse
+lmd: mouse
+TAG: mouse pad
+lmd: mouse pad
+TAG: mug
+lmd: mug
+TAG: music stand
+lmd: music stand
+TAG: napkin
+lmd: napkin
+TAG: necklace
+lmd: necklace
+TAG: net
+lmd: net
+TAG: newspaper
+lmd: newspaper
+TAG: niche
+lmd: niche
+TAG: night lamp
+lmd: night lamp
+TAG: night stand
+lmd: night stand
+TAG: night stand dresser
+lmd: night stand dresser
+TAG: notebook
+lmd: notebook
+TAG: notebooks
+lmd: notebooks
+TAG: open plan
+lmd: open plan
+TAG: orange
+lmd: orange
+TAG: organ
+lmd: organ
+TAG: ottoman
+lmd: ottoman
+TAG: outlet
+lmd: outlet
+TAG: oven
+lmd: oven
+lmd: dual oven
+TAG: pack
+lmd: pack
+TAG: packs
+lmd: packs
+TAG: paintbrush
+lmd: paintbrush
+TAG: painting
+lmd: painting
+lmd: drawing
+TAG: pallet
+lmd: pallet
+TAG: pallets
+lmd: pallets
+TAG: palm tree
+lmd: palm tree
+lmd: palm tree trunk
+TAG: palm trees
+lmd: palm trees
+TAG: pantry
+lmd: pantry
+TAG: paper
+lmd: paper
+TAG: paper cup
+lmd: paper cup
+TAG: paper roll
+lmd: paper roll
+TAG: papers
+lmd: papers
+TAG: parking
+lmd: parking
+TAG: partition wall
+lmd: partition wall
+TAG: path
+lmd: path
+lmd: walkway
+TAG: patio
+lmd: patio
+TAG: pavilion
+lmd: pavilion
+TAG: pear
+lmd: pear
+TAG: pedestal
+lmd: pedestal
+TAG: pen
+lmd: pen
+TAG: people
+lmd: people
+lmd: persons
+TAG: people sitting
+lmd: people sitting
+TAG: person
+lmd: person
+lmd: acrobat
+lmd: diver
+lmd: child
+lmd: girl
+lmd: climber person
+lmd: person dancing
+lmd: person model
+lmd: person player
+lmd: person batter
+lmd: person boxer
+lmd: person playing
+lmd: person skating
+lmd: person skiing
+lmd: skier
+lmd: skier person
+lmd: person porter
+lmd: judge person
+lmd: kneel person
+lmd: referee
+lmd: referee person
+lmd: person standing
+lmd: person walking
+lmd: person running
+lmd: person working
+lmd: player
+lmd: human
+TAG: person sitting
+lmd: person sitting
+lmd: child sitting
+lmd: driver
+lmd: person riding
+lmd: person ride
+lmd: person driver
+lmd: pilot sitting
+TAG: piano
+lmd: piano
+lmd: grand piano
+TAG: picture
+lmd: picture
+lmd: picture frame
+lmd: photo
+lmd: pictures
+TAG: piller
+lmd: piller
+TAG: pillow
+lmd: pillow
+lmd: throw pillow
+lmd: pillows
+TAG: pipe
+lmd: pipe
+lmd: iron tube
+lmd: iron tubes
+TAG: pitch
+lmd: pitch
+TAG: pitcher
+lmd: pitcher
+TAG: place mat
+lmd: place mat
+TAG: plain
+lmd: plain
+TAG: plank
+lmd: plank
+TAG: planks
+lmd: planks
+TAG: plant
+lmd: plant
+lmd: plants
+lmd: shrub
+lmd: shrubs
+lmd: scrub
+lmd: bush
+lmd: bushes
+lmd: hedge
+lmd: undergrowth
+lmd: topiary
+TAG: plate
+lmd: plate
+lmd: saucer
+lmd: hanging plate
+TAG: plateau
+lmd: plateau
+TAG: plates
+lmd: plates
+TAG: platform
+lmd: platform
+TAG: podium
+lmd: podium
+TAG: pole
+lmd: pole
+TAG: pylon
+lmd: pylon
+TAG: porch
+lmd: porch
+TAG: post
+lmd: post
+TAG: postcard
+lmd: postcard
+TAG: poster
+lmd: poster
+TAG: pot
+lmd: pot
+lmd: plant pot
+lmd: pottery
+TAG: potted plant
+lmd: potted plant
+TAG: pottery
+lmd: pottery
+TAG: price
+lmd: price
+TAG: printer
+lmd: printer
+TAG: projection screen
+lmd: projection screen
+TAG: pulpit
+lmd: pulpit
+TAG: quay
+lmd: quay
+TAG: rack
+lmd: rack
+TAG: racket
+lmd: racket
+TAG: radio
+lmd: radio
+TAG: rail
+lmd: rail
+TAG: railing
+lmd: railing
+TAG: railway
+lmd: railway
+lmd: railroad
+lmd: railroad track
+lmd: railroad train
+lmd: railways
+lmd: railway yard
+TAG: reel
+lmd: reel
+TAG: reels
+lmd: reels
+TAG: refrigerator
+lmd: refrigerator
+lmd: fridge
+TAG: remote control
+lmd: remote control
+TAG: rifle
+lmd: rifle
+TAG: ring
+lmd: ring
+TAG: river
+lmd: river
+lmd: river water
+TAG: road
+lmd: road
+lmd: alleyway
+lmd: highway
+lmd: runway
+lmd: runway strip
+TAG: road sign
+lmd: road sign
+TAG: rock
+lmd: rock
+TAG: rocking chair
+lmd: rocking chair
+TAG: rocks
+lmd: rocks
+TAG: roll
+lmd: roll
+TAG: roof
+lmd: roof
+TAG: rope bridge
+lmd: rope bridge
+TAG: row of chairs
+lmd: row of chairs
+TAG: rubble
+lmd: rubble
+TAG: rug
+lmd: rug
+lmd: mat
+lmd: carpet
+TAG: sacks
+lmd: sacks
+TAG: safety belt
+lmd: safety belt
+TAG: sand
+lmd: sand
+lmd: sand beach
+lmd: sand dune
+lmd: sand trap
+lmd: sandbar
+TAG: saucepan
+lmd: saucepan
+TAG: scaffolding
+lmd: scaffolding
+TAG: scales
+lmd: scales
+TAG: sconce
+lmd: sconce
+TAG: scoreboard
+lmd: scoreboard
+TAG: screen
+lmd: screen
+TAG: sculpture
+lmd: sculpture
+TAG: sea
+lmd: sea
+lmd: sea water
+lmd: water area
+lmd: ocean
+TAG: seats
+lmd: seats
+TAG: semidesert ground
+lmd: semidesert ground
+TAG: separation
+lmd: separation
+TAG: set of instruments
+lmd: set of instruments
+TAG: sewing machine
+lmd: sewing machine
+TAG: sheep
+lmd: sheep
+TAG: shelf
+lmd: shelf
+TAG: shelves
+lmd: shelves
+lmd: shelvess
+TAG: shipyard
+lmd: shipyard
+TAG: shoes
+lmd: shoe
+lmd: sandal
+lmd: shoes
+lmd: slippers
+lmd: sneaker
+lmd: sneakers
+lmd: boot
+lmd: boots
+TAG: shop window
+lmd: shop window
+TAG: shore
+lmd: shore
+TAG: showcase
+lmd: showcase
+TAG: shower
+lmd: shower
+TAG: shower curtain
+lmd: shower curtain
+TAG: shower screen
+lmd: shower screen
+TAG: shutter
+lmd: shutter
+TAG: side table
+lmd: side table
+lmd: end table
+lmd: auxiliary table
+lmd: small table
+lmd: night table
+TAG: sideboard
+lmd: sideboard
+TAG: sidewalk
+lmd: sidewalk
+lmd: side walk
+TAG: sidewalk cafe
+lmd: sidewalk cafe
+TAG: sign
+lmd: sign
+TAG: sign occluded
+lmd: sign occluded
+TAG: signs
+lmd: signs
+TAG: sink
+lmd: sink
+lmd: washbasin
+TAG: skittle
+lmd: skittle
+TAG: skittle alley
+lmd: skittle alley
+TAG: skittles
+lmd: skittles
+TAG: skull
+lmd: skull
+TAG: sky
+lmd: sky
+lmd: cloudy sky
+TAG: skylight
+lmd: skylight
+TAG: slide
+lmd: slide
+TAG: sliding door
+lmd: sliding door
+TAG: slope
+lmd: slope
+TAG: slot machine
+lmd: slot machine
+lmd: slot machines
+lmd: fruit machine
+lmd: pinball
+TAG: smoke
+lmd: smoke
+TAG: snow
+lmd: snow
+TAG: snow covered ground
+lmd: snow covered ground
+TAG: snowy ground
+lmd: snowy ground
+TAG: soap
+lmd: soap
+TAG: soap bottle
+lmd: soap bottle
+lmd: shampoo
+TAG: soap dish
+lmd: soap dish
+lmd: soapdish
+TAG: sofa
+lmd: sofa
+lmd: sofa bed
+TAG: speaker
+lmd: speaker
+lmd: loudspeaker
+TAG: spoon
+lmd: spoon
+TAG: spotlight
+lmd: spotlight
+TAG: spotlights
+lmd: spotlights
+TAG: stack of books
+lmd: stack of books
+TAG: stack of plates
+lmd: stack of plates
+TAG: stage
+lmd: stage
+TAG: staircase
+lmd: staircase
+TAG: stairs
+lmd: stairs
+TAG: stall
+lmd: stall
+TAG: stand
+lmd: stand
+lmd: stands
+TAG: statue
+lmd: statue
+TAG: stem
+lmd: stem
+TAG: step
+lmd: step
+TAG: steps
+lmd: steps
+TAG: stick
+lmd: stick
+TAG: stone
+lmd: stone
+TAG: stone wall
+lmd: stone wall
+TAG: stones
+lmd: stones
+TAG: stones wall
+lmd: stones wall
+TAG: stool
+lmd: stool
+TAG: stove
+lmd: stove
+TAG: straw
+lmd: straw
+TAG: strawberry
+lmd: strawberry
+TAG: streetlight
+lmd: streetlight
+TAG: stretcher
+lmd: stretcher
+TAG: stuffed animal head
+lmd: stuffed animal head
+TAG: suitcase
+lmd: suitcase
+TAG: sun
+lmd: sun
+TAG: sweaters
+lmd: sweaters
+TAG: sweatshirts
+lmd: sweatshirts
+TAG: swimming pool
+lmd: swimming pool
+lmd: swimmingpool
+lmd: heated swimming pool
+lmd: pool
+TAG: switch
+lmd: switch
+TAG: swivel chair
+lmd: swivel chair
+TAG: synthesizer
+lmd: synthesizer
+TAG: tshirt
+lmd: t-shirt
+lmd: t-shirts
+lmd: shirt
+lmd: shirts
+TAG: table
+lmd: table
+lmd: dining table
+TAG: tank
+lmd: tank
+TAG: tap
+lmd: tap
+TAG: teapot
+lmd: teapot
+TAG: teddy bear
+lmd: teddy bear
+TAG: telephone
+lmd: telephone
+lmd: phone
+TAG: television
+lmd: television
+TAG: television stand
+lmd: television stand
+TAG: temple
+lmd: temple
+TAG: tennis court
+lmd: tennis court
+TAG: tent
+lmd: tent
+TAG: terrace
+lmd: terrace
+TAG: terraces
+lmd: terraces
+TAG: test tube
+lmd: test tube
+TAG: text
+lmd: text
+TAG: throw pillow
+lmd: throw pillow
+TAG: ticket counter
+lmd: ticket counter
+TAG: ticket window
+lmd: ticket window
+TAG: toaster
+lmd: toaster
+TAG: toilet
+lmd: toilet
+TAG: toilet paper
+lmd: toilet paper
+lmd: toiletpaper
+TAG: toll booth
+lmd: toll booth
+TAG: tomb
+lmd: tomb
+TAG: tools
+lmd: tools
+TAG: towel
+lmd: towel
+lmd: dish towel
+lmd: dishcloth
+lmd: hand towel
+lmd: towels
+TAG: towel rack
+lmd: towel rack
+TAG: tower
+lmd: tower
+TAG: toy
+lmd: toy
+TAG: toys
+lmd: toys
+TAG: track
+lmd: track
+TAG: tracks
+lmd: tracks
+TAG: traffic cone
+lmd: traffic cone
+lmd: cone
+TAG: traffic lights
+lmd: traffic lights
+lmd: traffic light
+lmd: trafficlight
+lmd: trafficlights
+TAG: train
+lmd: train
+TAG: trash can
+lmd: trash can
+lmd: trash
+lmd: waste basket
+lmd: waste bin
+lmd: wastepaper basket
+lmd: recycling bins
+lmd: dustbin
+TAG: tray
+lmd: tray
+TAG: trays
+lmd: trays
+TAG: tree
+lmd: tree
+lmd: tree crop
+lmd: tree occluded
+lmd: tree trunk
+lmd: tree trunk fallen
+lmd: trees
+lmd: trees occluded
+lmd: foliage
+TAG: trellis
+lmd: trellis
+TAG: tripod
+lmd: tripod
+TAG: trolley
+lmd: trolley
+TAG: trophy
+lmd: trophy
+TAG: trousers
+lmd: trousers
+TAG: truck
+lmd: truck
+lmd: truck rear
+lmd: truck side
+lmd: truck front
+lmd: pickup
+TAG: tunnel
+lmd: tunnel
+TAG: tv camera
+lmd: tv camera
+TAG: umbrella
+lmd: umbrella
+TAG: utensils
+lmd: utensils
+TAG: valley
+lmd: valley
+TAG: van
+lmd: van
+lmd: van rear
+lmd: van side
+TAG: vase
+lmd: vase
+TAG: vault
+lmd: vault
+TAG: vegetables
+lmd: vegetables
+TAG: vending machine
+lmd: vending machine
+TAG: vent
+lmd: vent
+TAG: viaduct
+lmd: viaduct
+TAG: video
+lmd: video
+TAG: videos
+lmd: videos
+TAG: village
+lmd: village
+TAG: vineyard
+lmd: vineyard
+TAG: voting booth
+lmd: voting booth
+TAG: wall
+lmd: wall
+TAG: wall spotlight
+lmd: wall spotlight
+TAG: wall spotlights
+lmd: wall spotlights
+TAG: wallhanging
+lmd: wallhanging
+TAG: wardrobe
+lmd: wardrobe
+TAG: washing machine
+lmd: washing machine
+TAG: washing machines
+lmd: washing machines
+TAG: watchtower
+lmd: watchtower
+TAG: water
+lmd: water
+TAG: lake
+lmd: water lake
+lmd: lake
+lmd: pond
+TAG: river
+lmd: water river
+lmd: river
+TAG: water tower
+lmd: water tower
+TAG: waterfall
+lmd: waterfall
+lmd: water fall
+TAG: wave
+lmd: wave
+TAG: way
+lmd: way
+TAG: weighbridge
+lmd: weighbridge
+TAG: weights
+lmd: weights
+TAG: whiteboard
+lmd: whiteboard
+TAG: windmill
+lmd: windmill
+TAG: window
+lmd: window
+lmd: pane
+TAG: window frame
+lmd: window frame
+TAG: windows
+lmd: windows
+TAG: windshield
+lmd: windshield
+TAG: wire
+lmd: wire
+TAG: wood art
+lmd: wood art
+TAG: wood wall
+lmd: wood wall
+TAG: workbench
+lmd: workbench
+TAG: worktop
+lmd: worktop

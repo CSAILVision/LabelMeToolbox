@@ -1,0 +1,420 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <title>LabelMe Matlab Toolbox</title>
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+ <LINK REL="SHORTCUT ICON" HREF="http://people.csail.mit.edu/brussell/research/LabelMe/favicon16.ico">
+ <META NAME="KEYWORDS"
+ CONTENT="LabelMe, open annotation tool, images, database, matlab, object">
+<script type="text/javascript" src="js/my_scripts-ver16.js"></script>
+</head>
+
+<body text="#333300" bgcolor="#ffffff" link="#006600" vlink="#003300" alink="#003300">
+
+<script type="text/javascript">
+WriteLogMsg('*Toolbox_page');
+</script> 
+
+<table border="0" width="800" style="WIDTH: 800px" background="">
+
+<tr>
+<td  width="200px">
+<DIV align=left>
+<a href="http://people.csail.mit.edu/brussell/research/LabelMe/intro.html">
+<IMG src="LabelMe198x55.gif" width=198 height=55 border=0>
+</a>
+</DIV>
+      <font size=1> Release April 15, 2008</font> <br>
+<DIV align=right><IMG src="annotation.gif" width=96 height=69 border=0 align=left><IMG src="matlab.gif" width=71 height=69 border=0></DIV>
+</td>
+<td  width="20px">
+
+</td>
+    <td width=780px"> <p><font size=5><b>MATLAB Toolbox for the LabelMe Image 
+        Database</b><br>
+        </font> <font size=3> written by <em>Antonio Torralba, Bryan Russell</em></font><em> 
+        and William Freeman</em><br>
+        (c) 2008 MIT, Computer Science and Artificial Intelligence Laboratory. 
+      </p>
+      <p><font size=3><br>
+        <a href="http://people.csail.mit.edu/brussell/research/LabelMe/intro.html">LabelMe</a> 
+        is a WEB-based image annotation tool that allows researchers to label 
+        images and share the annotations with the rest of the community. If you 
+        use this toolbox, we only ask you to contribute to the database, from 
+        time to time, by using the labeling tool.<br>
+        </font> </p>
+      </td>
+</tr>
+</table>
+
+<table border="0" width="800" style="WIDTH: 800px" background="">
+  <tr> 
+    <td width="1000px"> <font size=6> Citation </font> <p>If you use this dataset 
+        or the functions on this toolbox, we would appreciate if you cite:</p>
+      <p>B. C. Russell, A. Torralba, K. P. Murphy, W. T. Freeman, <i>LabelMe: 
+        a database and web-based tool for image annotation</i>. International 
+        Journal of Computer Vision, pages 157-173, Volume 77, Numbers 1-3, May, 
+        2008. (<a href="http://people.csail.mit.edu/brussell/research/AIM-2005-025-new.pdf">PDF</a>)</p>
+      <p><font size=6>Contribute to the dataset</font> </p>
+      <p>If you find this dataset useful, you can help us to make it larger by 
+        visiting the annotation tool and labeling several objects. Even if your 
+        contribution seems small compared to the size of the dataset, everything 
+        counts! We also welcome submissions of <em>copyright free</em> images. 
+        Your annotations and images will be made available for download inmediately. 
+      </p>
+      <p>Here there are some examples of annotated images:</p>
+      <p><img src="img_0923.jpg" width="260" height="96"> <img src="DSC06978.jpg" width="260" height="96"> 
+        <img src="101_0112.jpg" width="260" height="96"></p>
+      <p><font size=6>Content</font> </p>
+      <blockquote> 
+        <p><strong>1. <a href="#setup">Download</a><br>
+          2. <a href="#quick">A quick look into the dataset</a><br>
+          3. <a href="#list">List of functions in the toolbox</a><br>
+          4. <a href="#using">Using the toolbox</a></strong><br>
+          4.1. Basic functions: indexing, queries<br>
+          4.2. Searching objects by viewpoint<br>
+          4.3. Depth ordering of polygons<br>
+          4.4. Object part hierarchies<br>
+          <strong>5. <a href="#communication">Communcation with the online tool</a> 
+          </strong></p>
+        
+      </blockquote>
+      <hr align="Left" width="800" size="1">
+      <font size=6> <a name="setup"></a>Download the LabelMe toolbox</font><br>
+      <br>
+      <a href="LabelMeToolbox.zip">Download</a> the toolbox and add it to the 
+      Matlab path. <br> <br> <hr align="Left" width="800" size="1">
+      <p><font size=6> <a name="quick"></a>A quick look into the dataset</font></p>
+      <p>The toolbox allows you using the dataset online without needing to download 
+        it first. Just execute the next lines to visualize the content of one 
+        of the folders of the collection:<br>
+        <br>
+        HOMEANNOTATIONS = 'http://labelme.csail.mit.edu/Annotations'; <br>
+        HOMEIMAGES = 'http://labelme.csail.mit.edu/Images'; <br>
+        D = LMdatabase(HOMEANNOTATIONS, {'static_street_statacenter_cambridge_outdoor_2005'});<br>
+        LMdbshowscenes(D, HOMEIMAGES);<br>
+        <br>
+        (<a href="http://labelme.csail.mit.edu/instructions.html">Installing a 
+        local copy of the database will allow you a faster access and will reduce 
+        the load on our server</a>).</p>
+      <hr align="Left" width="800" size="1">
+      <p><font size=6> <a name="list"></a>3. List of functions in the toolbox</font></p>
+      <p><font size=3><b>Introduction</b><br>
+        <a href="demo.m">demo</a> - contains examples of how to use several functions. 
+        To see more examples visit our <a href="http://labelme.csail.mit.edu/faq.html">FAQ 
+        page</a>. </font></p>
+      <font size=3> 
+      <hr align="Left" width="800" size="1">
+      <b>LabelMe tools for reading and ploting the annotations of individual files</b><br>
+      <a href="LMread.m">LMread</a> - reads one image and the corresponding annotation 
+      XML file<br>
+      <a href="LMplot.m">LMplot</a> - image and polygons visualization<br>
+      <hr align="Left" width="800" size="1">
+      <b>LabelMe Database tools</b><br>
+      <a href="LMdatabase.m">LMdatabase</a> - loads all the annotations into a 
+      big database struct<br>
+      <a href="LMdbshowscenes.m">LMdbshowscenes</a> - shows thumbnails for the 
+      all the images in the database<br>
+      <a href="LMdbshowobjects.m">LMdbshowobjects</a> - shows crops of the objects 
+      in the database.<br>
+      <a href="LMobjectnames.m">LMobjectnames</a> - returns a list with the name 
+      of all the objects in the database<br>
+      <a href="LMobjectindex.m">LMobjectindex</a> - retuns the indices of an object 
+      class within the annotation struct<br>
+      <a href="LMcountobject.m">LMcountobject</a> - counts the number of instances 
+      of an object class in every image<br>
+      <hr align="Left" width="800" size="1">
+      </font><font size=3> <b>Search tools</b><br>
+      <a href="LMquery.m">LMquery</a> - performs a query on the database using 
+      any field</font> <font size=3><br>
+      <a href="LMobjectpolygon.m">LMobjectpolygon</a> - search for objects using 
+      shape matching<br>
+      <a href="qLabelme.m">qLabelme</a> - search using the online search tool 
+      (it does not use the local index)<br>
+      </font> <font size=3> 
+      <hr align="Left" width="800" size="1">
+      <b>Image manipulation</b><br>
+      <a href="LMimread.m">LMimread</a> - reads one image from the database<br>
+      <a href="LMimscale.m">LMimscale</a> - scales the image and the corresponding 
+      annotation<br>
+      <a href="LMimcrop.m">LMimcrop</a> - crops the image and the corresponding 
+      annotation<br>
+      <a href="LMimpad.m">LMimpad</a> - pads an image with PADVAL and modifies 
+      the annotation<br>
+      <hr align="Left" width="800" size="1">
+      <b>Annotation consistency and synonym lists</b><br>
+      <a href="LMreplaceobjectname.m">LMreplaceobjectname</a> - replaces object 
+      names<br>
+      <a href="LMaddtags.m">LMaddtags</a> - Replaces LabelMe object descriptions 
+      with the names in the list <a href="tags.txt">tags.txt</a>. You can extend 
+      this list to include more synonyms. Use this function to reduce the variability 
+      on object labels used to describe the same object class. However, the original 
+      labelme descriptions contain information that is more specific and you might 
+      want to generate other tag files to account for a specific level of description.<br>
+      <hr align="Left" width="800" size="1">
+      </font> <font size=3> <b>Objects, polygons and segmentation</b><br>
+        <a href="LMobjectpolygon.m">LMobjectpolygon</a> - returns all the polygons 
+        for an object class within an image<br>
+		<a href="LMobjectboundingbox.m">LMobjectboundingbox</a> - returns bounding 
+      boxes</font><font size=3><br>
+        <a href="LMobjectmask.m">LMobjectmask</a> - returns the segmentation mask 
+        for all object instances of one class within an image<br>
+      <a href="LMobjectsinsideimage.m">LMobjectsinsideimage</a> - removes polygons 
+      outside the image boundary</font><font size=3><br>
+      <a href="LMobjectcrop.m">LMobjectcrop</a> - crops one selected object</font><font size=3>&nbsp;</font><font size=3>&nbsp; </font><font size=3> 
+      <br>
+      <a href="LM2segments.m">LM2segments</a> - transforms all the labelme labels 
+      into segmentation masks (it takes into account occlusions).</font><font size=3>&nbsp;&nbsp; 
+      <br>
+      <a href="LMsortlayers.m">LMsortlayers</a> - returns the same annotation 
+      file, but the objects are sorted by depth.&nbsp;&nbsp; 
+      <br>
+     </font> <font size=3> 
+      <hr align="Left" width="800" size="1">
+      <b>Creation of training and test images and databases</b><br>
+      <a href="LMcookimage.m">LMcookimage</a> - reformat an image and annotation 
+      to fit certain requirements.<br>
+      <a href="LMcookdatabase.m">LMcookdatabase</a> - create tuned databases (you 
+      can control the difficulty, the object size, ...)<br>
+      <hr align="Left" width="800" size="1">
+      <b>Communication with online annotation tool</b><br>
+      <a href="LMphotoalbum.m">LMphotoalbum</a> - creates a web page with thumbnails 
+      and connected to LabelMe online.<br>
+      <a href="LMthumbnailsbar.m">LMthumbnailsbar</a> - creates a bar of thumbnails 
+      connected to LabelMe online<br>
+      <a href="urldir.m">urldir</a> - like 'dir' but takes as argument a web address<br>
+      <a href="LMgetfolderlist.m">LMgetfolderlist</a> - returns the list of folders 
+      from the online database<br>
+      <hr align="Left" width="800" size="1">
+      <b>Install and update images and annotations</b><br>
+      <a href="LMinstall.m">LMinstall</a> - installs the database<br>
+      <a href="LMupdate.m">LMupdate</a> - authomatic update of the annotations 
+      for specific files<br>
+      <a href="LMprogressiveinstall.m">LMprogressiveinstall</a> - will update 
+      your local copy of the images with only the new images and also download 
+      all of the annotations<br>
+      <hr align="Left" width="800" size="1">
+      <b>Translation from/to other formats</b><br>
+      <a href="PAS2LM.m">PAS2LM</a> - Translates PASCAL format to LabelMe <br>
+      <a href="LM2OpenCV.m">LM2OpenCV</a> - will output a query in format usable 
+      for OpenCV Haar<br>
+      <hr align="Left" width="800" size="1">
+      <b>Evaluation for object detection</b><br>
+      <a href="LMrecallPrecision.m">LMrecallPrecision</a> - Precision-recall curve<br>
+      <hr align="Left" width="800" size="1">
+      <b>XML tools</b> (translates the XML files into MATLAB struct arrays)<br>
+      <a href="writeXML.m">writeXML</a> - translates a struct array into a XML 
+      file<br>
+      <a href="loadXML.m">loadXML</a> - read XML file<br>
+      <a href="drawXML.m">drawXML</a> - shows the image and plots the polygons<br>
+      <a href="xml2struct.m">xml2struct</a> - translates a XML string into a matlab 
+      struct<br>
+      <a href="struct2xml.m">struct2xml</a> - translates a matlab struct into 
+      a XML string<br>
+      <hr align="Left" width="800" size="1">
+      <font size=6> Object detection code </font><br>
+      <a href="http://people.csail.mit.edu/torralba/iccv2005/boosting/boosting.html">A 
+      simple object detector using boosting</a> - object detection with boosting 
+      trained with this dataset<br>
+      </font></td>
+</tr>
+</table>
+<table border="0" width="800" style="WIDTH: 800px" background="">
+<tr>
+<td  width="800px">
+<hr align="Left" width="800" size="1">
+      <p><font size=3><font size=6><a name="using"></a>4. Using the toolbox</font></font> 
+      </p>
+      <p>First, you need to download the <a href="http://labelme.csail.mit.edu/instructions.html">LabelMe 
+        database</a> or you need to provide the url of the images and annotations 
+        online. If you are going to use the dataset frequently, it is better that 
+        you get a local copy. </p>
+      <p>Define the root folder for the images<br>
+        <br>
+        HOMEIMAGES = 'C:\yourpath\Images'; % you can set here your default folder<br>
+        HOMEANNOTATIONS = 'C:\yourpath\Annotations'; % you can set here your default 
+        folder<br>
+      </p>
+      <p><font size="5">4.1 - Basic functions: indexing, queries</font></p>
+      <p>The most common functions are LMdatabase, LMimread, and LMquery.</p>
+      <p><br>
+        % This line reads the entire database into a Matlab struct<br>
+        Dlabelme = LMdatabase(HOMEANNOTATIONS);<br>
+        <br>
+        % Street scenes<br>
+        % To get images that have trees, buildings and roads:<br>
+        [D,j1] = LMquery(Dlabelme, 'object.name', 'building');<br>
+        [D,j2] = LMquery(Dlabelme, 'object.name', 'road');<br>
+        [D,j3] = LMquery(Dlabelme, 'object.name', 'tree');<br>
+        j = intersect(intersect(j1,j2),j3);<br>
+        LMdbshowscenes(LMquery(Dlabelme(j), 'object.name', 'car,building,road,tree'), 
+        HOMEIMAGES);</p>
+      <DIV align=left>
+<IMG src="exampleShowscenes.gif" width=800 height=240 border=0>
+</DIV>
+<br>
+% You can query the database looking for specific objects and visualize each instance in isolation:<br>
+LMdbshowobjects(LMquery(database, 'object.name', 'bottle'), HOMEIMAGES);<br>
+<br>
+<DIV align=left>
+<IMG src="bottle.gif" width=800 height=212 border=0>
+</DIV>
+      <p><font size="5"><br>
+        4.2 - Synonyms and unification of the LabelMe descriptions</font></p>
+      <p>As there are not specific instructions about how labels should be introduced 
+        when using the online annotation tool, this results in different text 
+        descriptions used for the same object category. For instace, a person 
+        can be described as a &quot;person&quot;, &quot;pedestrian&quot;, &quot;person 
+        walking&quot;, &quot;kid&quot;, etc. </p>
+      <p>The function <font size=3><a href="LMaddtags.m">LMaddtags</a> replaces 
+        LabelMe object descriptions with the names in the list <a href="tags.txt">tags.txt</a>. 
+        You can extend this list to include more synonyms. Use this function to 
+        reduce the variability on object labels used to describe the same object 
+        class. However, the original labelme descriptions contain information 
+        that is more specific and you might want to generate other tag files to 
+        account for a specific level of description.</font></p>
+      <p><font size="5">4.3 - Searching objects by viewpoint</font></p>
+      <p>Some objects have information related to viewpoint in the annotation 
+        file. In the current setup, viewpoints are discretized in 12 different 
+        orientations. For instance, for cars we have:</p>
+		
+		
+      <p><a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az0deg"> 
+        <img style="height: 2.6em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/05june05_static_street_boston/p1010748_0001.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az30deg"> 
+        <img style="height: 2.6em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/05june05_static_street_boston/p1010784_0001.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az60deg"> 
+        <img style="height: 2.58em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/05june05_static_street_boston/p1010904_0006.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az90deg"> 
+        <img style="height: 2.58em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/05june05_static_street_boston/p1010770_0003.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az120deg"> 
+        <img style="height: 2.3em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/05june05_static_street_boston/p1010817_0003.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az150deg"> 
+        <img style="height: 2.3em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/05june05_static_street_boston/p1010750_0001.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az180deg"> 
+        <img style="height: 2.27em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/05june05_static_street_boston/p1010751_0002.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az210deg"> 
+        <img style="height: 2.27em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/10feb04_static_cars_highland/img_0818_0001.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az240deg"> 
+        <img style="height: 3em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/10feb04_static_techsquare/img_0869_0001.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az270deg"> 
+        <img style="height: 3em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/10feb04_static_techsquare/img_0870_0002.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az300deg"> 
+        <img style="height: 3em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/10feb04_static_cars_highland/img_0823_0002.jpg" 
+alt="" title="" /></a> <a href="http://people.csail.mit.edu/torralba/research/LabelMe/js/LabelMeQueryObjectFast.cgi/?query=car az330deg"> 
+        <img style="height: 3em; border: 1px solid black;" 
+src="http://people.csail.mit.edu/brussell/research/LabelMe/ThumbnailsObjects/05june05_static_street_boston/p1010792_0001.jpg" 
+alt="" title="" /></a> </p>
+      <p>In order to get all the frontal cars you can use the query:</p>
+      <p>D = LMquery(Dlabelme, 'object.name', 'car+az270deg'');</p>
+      <p>We have a tool that allows labeling viewpoints for new objects. If you 
+        want to add viewpoint information for new objects send us an email and 
+        we will send you a link to the tool. By using the online tool, the data 
+        that you will provide can be used in the future by other researchers.</p>
+      <p>4.3 Searching fully annotated images</p>
+      <p>&nbsp;</p>
+      <p><font size="5">4.4 - Depth ordering</font></p>
+      <p>Frequently, an image will contain many partially overlapping polygons. 
+        This situation arises when users complete an occluded boundary or when 
+        labeling large regions containing small occluding objects. In these situations 
+        we need to know which polygon is on top in order to assign the image pixels 
+        to the correct object label.</p>
+      <p>The function <em>LMsortlayers</em> will sort the polygons accorting to 
+        their relative depth ordering. The function uses some heuristics (see 
+        paper) and it will not be correct all the time.</p>
+      <p><img src="depthordering.jpg" width="848" height="393"></p>
+      <p><font size="5">4.5 - Object part hierarchies</font></p>
+      <p>Despite that object parts are not explicitly labeled as such by the annotation 
+        tool, it is posible to authomatically discover object-part hierarchies. 
+        When two polygons have a high degree of overlap across many images, this 
+        provides evidence for an object-part hierarchy. The toolbox provides a 
+        set of functions to suggest parts for an object category. The function 
+        <em>partsof</em> will add a new field to each object.</p>
+      <p><img src="http://labelme.csail.mit.edu/Icons/image012.jpg" align="middle"></p>
+      <p>The online query tool shows object parts whenever they are labeled. Here 
+        there are some examples:</p>
+      <p><img src="me3_0016.jpg" width="111" height="90"> <img src="img_0849_0003.jpg" width="252" height="65"> 
+        <img src="insidecity_urb992_0002.jpg" width="208" height="104"> <img src="060811_072502__Z9B0336_0013.jpg" width="252" height="63"></p>
+      <p>In order to add parts to the object 'car', run the next line:</p>
+      <p>D = partsof(Dlabelme, 'car', 'wheel,door,window,tire,mirror,license+plate,windshield,headlight,light');<br>
+      </p>
+      <p><font size="5"><a name="communication"></a>5 - Communication with the 
+        online tool</font></p>
+      <p>You can look in the demo.m file, at the end there is a description that 
+        explains how can you talk, using Matlab, with the online annotation tool 
+        to label only the images that you want and how to get back just those 
+        labels and update you annotation file. The effect is like if the annotation 
+        tool was just working for you, but still all the annotations that you 
+        will enter will be shared and stored online.<br>
+        <br>
+        The first function you have to look at is:<br>
+        <br>
+        LMphotoalbum(folderlist, filelist, webpagename, HOMEIMAGES);<br>
+        <br>
+        This function will create a web page with thumbnails with the images that 
+        you want (look at <em>demo.m</em> to see how to use this with <em>LMquery</em>). 
+        If you click in any thumbnail it will open LabelMe online showing that 
+        image and allowing you to add polygons to it.<br>
+        <br>
+        Once you are done labeling images, you can update the annotations using:<br>
+        <br>
+        LMupdate(folderlist, filelist, HOMEIMAGES, HOMEANNOTATIONS);<br>
+        <br>
+        This function reads the annotations from the web and replaces your local 
+        files with the new ones. So, you can get inmediately all the labels you 
+        enter.<br>
+        <br>
+        The result is that the system will behave as if you had a local copy of 
+        the annotation tool. And still, everything that you will label, will be 
+        shared.<br>
+        <br>
+        The next command creates a web page that adds thumbnails to the LabelMe 
+        annotation tool: <br>
+        <br>
+        LMthumbnailsbar(folderlist, filelist, 'myphotoalbum.html', HOMEIMAGES);<br>
+        <br>
+        The web page created will look like this:<br>
+      </p>
+      <DIV align=left>
+<IMG src="labelmeBar.gif" width=698 height=522 border=0>
+</DIV>
+
+<hr align="Left" width="800" size="1"> 
+
+</td>
+</tr>
+</table>
+
+(c) 2008 MIT, Computer Science and Artificial Intelligence Laboratory. 
+<!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" -->
+<p><script type="text/javascript" language="JavaScript">var site="s21labelme"</script>
+<script type="text/javascript" language="JavaScript1.2" src="http://s21.sitemeter.com/js/counter.js?site=s21labelme">
+</script>
+</p><noscript>
+<p><a href="http://s21.sitemeter.com/stats.asp?site=s21labelme" target="_top">
+<img src="http://s21.sitemeter.com/meter.asp?site=s21labelme" alt="Site Meter" border="0"/></a>
+</p></noscript>
+<p><!-- Copyright (c)2005 Site Meter -->
+<!--WEBBOT bot="HTMLMarkup" Endspan -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-606692-1";
+urchinTracker();
+</script>
+
+</p></body>
+</html>
+

@@ -1,0 +1,143 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+
+
+<title>LabelMe Matlab Toolbox</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link href="style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+</head><body>
+
+<p><font size="5"><b><img src="VLMLogo.png" alt="LabelMe video logo" height="35" width="180"></b></font></p>
+<hr>
+<table border="0" width="800">
+  <tbody><tr>
+          
+    <td valign="top" width="112"><img src="labelmeStreet.jpg" height="110" width="110"></td>
+          
+    <td bordercolor="#000000" valign="top" width="678">
+<p><font size="5"><b>MATLAB Toolbox Instructions for the  LabelMe video Database </b><br>
+              </font> <font size="3"> Written and maintained by <em>Jenny Yuen and Antonio Torralba</em></font><br>
+              (c) 2010 MIT, Computer Science and Artificial Intelligence Laboratory. 
+      </p>
+            
+      <p><font size="3"><br>
+        <a href="http://labelme.csail.mit.edu/VideoLabelMe/" target="_blank">LabelMe video</a> 
+        is a WEB-based video annotation tool that extends the image version for LabelMe. It allows researchers to annotate 
+        videos and share the annotations with the rest of the community. </font></p>
+      <p><font size="5">Download </font> </p>
+      <p><a href="http://labelme.csail.mit.edu/LabelMeToolbox/LabelMeToolbox.zip">Download (.zip)</a> the toolbox and add it to the Matlab path. </p>
+      <p>Most of the function of the  general <a href="http://labelme.csail.mit.edu/LabelMeToolbox/index.html" target="_blank">LabelMe toolbox</a> also work with LabelMe video. We describe here some of the function that are specific to video manipulation.</p>
+<p><font size="5">Citation </font> </p>
+      <p>If you use this video dataset or the video-related functions on this toolbox, we would appreciate 
+        if you cite:</p>
+      <p>J. Yuen, B. C. Russell, C. Liu, and A. Torralba<br>
+      LabelMe video: building a video database with human annotations<br>
+        IEEE International Conference on Computer Vision (ICCV), 2009. <br>
+      (<a href="http://people.csail.mit.edu/jenny/papers/LabelMeVideo.pdf">paper.pdf</a>)</p></td>
+  </tr>
+</tbody></table>
+
+	<div></div>
+<table border="0" width="800">
+  <tbody><tr> 
+    <td width="112">&nbsp;</td>
+    <td width="678"> 
+	  <p class="chapter"><font size="5">Download video database</font></p>
+      <p>The toolbox allows you using the dataset online without needing to download 
+        it first. Just execute the next lines to visualize the content of <strong>one</strong> of the folders (including all its children recursively) of the collection: </p>
+      <p class="matlab">
+        HOMEVIDEOS = '/desired/path/to/VLMFrames/';<br>
+HOMEVIDEOANNOTATIONS = '/desired/path/to/VLMAnnotations/';<br>folder = 'videos_iccv09/video_street_city_florida_usa';<br>
+        VLMinstall(folder, HOMEVIDEOS, HOMEVIDEOANNOTATIONS);  </p>
+<p>where "/desired/path/to/VLMAnnotations" is the desired location
+  where the annotations will be stored, and "/desired/path/to/VLMFrames/"
+  is the desired path to store the videos (each video will be stored in a
+  folder with all the frames as individual jpgs). This process will
+  create the following directory structure under "/desired/path/to":<br>
+<br>
+./VLMAnnotations<br>
+./VLMAnnotations/folder/subfolder1/video1.xml<br>
+./VLMAnnotations/folder/subfolder1/video2.xml<br>
+...<br>
+./VLMAnnotations/folder/folderN<br>
+<br>
+./VLMFrames<br>
+./VLMFrames/folder/subfolder1/video1/video1_00001.jpg<br>
+./VLMFrames/folder/subfolder1/video1/video1_00002.jpg<br>
+...<br>
+./VLMFrames/folder/subfolder1/video2/video2_00001.jpg<br>
+...<br>
+./VLMFrames/folder/subfolderN</p>
+<p>If you are looking for our ICCV 2009 dataset, download the following folder:</p>
+<p class="matlab">folder = 'videos_iccv09';<br>
+  VLMinstall(folder, HOMEVIDEOS, HOMEVIDEOANNOTATIONS); </p>
+<p>If you want to download the whole  database, you can use call VLMinstall with two
+  arguments only:</p>
+      <p class="matlab">
+VLMinstall(HOMEVIDEOS, HOMEVIDEOANNOTATIONS);
+</p>
+
+
+	  <p class="chapter"><font size="5">Toolbox description for video manipulation</font></p>
+      <p class="section">A quick look into the dataset</p>
+      <p>Most
+of the function from LabelMe work also with video annotations. To build
+the index of videos, use the function LMdatabase: </p>
+      <p class="matlab">
+HOMEVIDEOANNOTATIONS = '/desired/path/to/VLMAnnotations/';<br>
+D = LMdatabase(HOMEVIDEOANNOTATIONS);</p>
+<p>The function LMplay visualizes one video and its annotations. To play the first video in the index D:</p>
+      <p class="matlab">LMplay(D, 1, HOMEVIDEOS);</p>
+      
+      <p>You can also extract the annotations that correspond to one frame:</p>
+      <p class="matlab">
+      annotationframe = LMgetvideoframe(D(1).annotation, frame);
+      </p>
+      <p>The
+output is the annotation associated with the frame. This annotation has
+the same format than the annotation of an image in LabelMe. You can use
+all the same functions to plot the polygons, to extract segments than
+with the LabelMe Toolbox for images.</p>
+      
+      <p class="section">Queries</p>
+      <p>To
+perfom searches in video, you can also use the LMquery function
+available for LabelMe. This function allows searching for the content
+of any field.</p>
+      <p class="matlab"> [Dcar, j] = LMquery(D, 'object.name', 'car'); </p>
+      <p>The new struct Dcar contains all the videos with cars and all other objects 
+        have been removed. The index array j points to the original index D. The 
+        struct D(j) contains all the images with cars without excluding other 
+        objects. For more details on the LMquery function, look in the <a href="http://labelme.csail.mit.edu/LabelMeToolbox/index.html" target="_blank">LabelMe instructions</a> page.</p>
+      <p><br>
+      </p></td>
+  </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Let us know if you encounter bugs or have suggestions.</p>
+(c) 2009 MIT, Computer Science and Artificial Intelligence Laboratory. 
+<!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" -->
+<noscript>
+<p><a href="http://s21.sitemeter.com/stats.asp?site=s21labelme" target="_top">
+<img src="http://s21.sitemeter.com/meter.asp?site=s21labelme" alt="Site Meter" border="0"/></a>
+</p></noscript>
+<p><!-- Copyright (c)2005 Site Meter -->
+<!--WEBBOT bot="HTMLMarkup" Endspan -->
+
+</p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAYAAACJfM0wAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAK8AAACvABQqw0mAAAAB90RVh0U29mdHdhcmUATWFjcm9tZWRpYSBGaXJld29ya3MgOLVo0ngAAAAWdEVYdENyZWF0aW9uIFRpbWUAMDQvMDQvMDhrK9wWAAACLklEQVQ4jbXUP0wTcRQH8O/9ekdjkT8CUqpee00bRyNNmSRSV0PcJJoQg2i6ODTExEUHg04OaNSppqtCjQ4ukDSKSuLUwcm4NNZcQYsIGtD+u/f7MZSWXltqo/Ul7/JL7u7z3r3fLye53e5xj8ejoYWRSCSSstfr1YLBYHcr4XA4rMmMMciy3EoXjDHIjDEoivL/4fefrP1P3nYEvqzLajOIo8fQz5/cfH3cnVttCM8udQaODBxQFx44Ye9h4HxvdGWtgMlbSXV2SQoMHf0RNcGSJJlmvPLdos7fdyIWL+D5myx+ZwwUDAIRh2EU1wYRFItA6FwvIjdcGJr4qFYakiSBlTavlABwsJth7mUWmSyBOAfnAkQE4gKccxBx/MoYmHmcxuH+NgAwGQ03j3NeRjjnoGqcC/zcIgghAMBkNISJuKlbEy4EaKdoKerC5nNMxQdlgVx+t0siKhYQovwV1rbdtyoNxlhxxoqilBMA0uuES6Pt6NqP2hHsoDarhJuXD2F5NV/uuJR1T4XLzvTJ25/VyHUnzgzba0YkKq6pdB4T00m47EyvPhU1M54asy3ee5o55bvwQQWAr/PHMBfbQGhGrykCANqARZ8asy3+ccYjg/K3kcF9UQAYvrJ29dmrDUxHlnOxu72P+rpYrq5eFU39K649TCF0tnPB0WdtCt2z48rQHIp+8XTHu9ET7alm0aY6fnFHjda98a/w3wZjDJLP5xv3+/1aK+F4PJ7cBm32CUNiyI2GAAAAAElFTkSuQmCC" style="border: medium none ; margin: 0px; position: absolute; visibility: visible; color: transparent; z-index: 2147483647; left: 303px; top: 1421px;" id="fvdkoff-target-image"></body></html>
