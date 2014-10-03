@@ -1,2 +1,0 @@
-function D = synonyms(D);
-
